@@ -1,0 +1,225 @@
+// =============================================================================
+// Base
+// =============================================================================
+* {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  font-size: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 0.8rem;
+  font-family: $font-main;
+  color: $color-main;
+  background-color: $color-backgrounds;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  -webkit-animation: bugfix infinite 1s; /* needed for checkbox hack */
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: $color-main;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+header{
+  margin-top: 2vh;
+}
+
+footer{
+  background-color: $grey;
+  min-height: 200px;
+  padding: 7vh;
+}
+
+a{
+  color: $color-main;
+}
+
+a:hover{
+  color: $red;
+  text-decoration: none;
+}
+// =============================================================================
+// Media Queries
+// =============================================================================
+/* Extra Small devices */
+@media (min-width: $screen-xs-min) {
+  h1{
+    font-size: 3rem;
+  }
+}
+/* Small devices */
+@media (min-width: $screen-sm-min) {
+  h1{
+    font-size: 4rem;
+  }
+}
+/* Medium devices */
+@media (min-width: $screen-md-min) {
+  h1{
+    font-size: 5rem;
+  }
+}
+/* Large devices */
+@media (min-width: $screen-lg-min) {
+  h1{
+    font-size: 5rem;
+  }
+}
+@-webkit-keyframes bugfix { from {padding:0;} to {padding:0;} } /* needed for checkbox hack */
+
+// =============================================================================
+// ID's
+// =============================================================================
+
+#content {
+  flex: 1;
+}
+
+#big-description{
+  font-family: $font-main-bold;
+  margin-top: 3.4em;
+}
+
+#small-description{
+  @include backImage('../images/proyectos/chile-sur.jpg', 100vh, center center);
+  background-size: cover;
+  max-height: 300px;
+  margin-top: 12em;
+  width: 100%;
+  display: table;
+  .row{
+    display: table-cell;
+    vertical-align: middle;
+
+    h2{
+      font-size: 20px;
+      color: $white;
+      border: 1px solid $white;
+      padding: 1rem;
+      display: inline-block;
+    }
+  }
+}
+
+#why2811{
+  margin-top: 1.4em;
+  h2{
+    font-family: $font-main-bold;
+  }
+  h3{
+    line-height: 30px;
+  }
+  .row{
+    margin-top: 12.4em;
+  }
+  span{
+    border-bottom: 5px solid $red;
+  }
+}
+
+#somos{
+  margin-top: 8.4em;
+  margin-bottom: 2.9em;
+  h2{
+    font-family: $font-main-bold;
+  }
+}
+
+#alianzas{
+  .row{
+    margin-bottom: 2em;
+  }
+  h2{
+    font-family: $font-main-bold;
+  }
+}
+
+#work{
+  margin-top: 10vh;
+  margin-bottom: 15vh;
+  h2{
+    margin-top: 10vh;
+    font-family: $font-main-bold;
+    font-size: 17px;
+  }
+  p{
+    text-align: justify;
+    margin-bottom: 10vh;
+  }
+  .line{
+    margin-bottom: 8vh;
+  }
+}
+
+#blog{
+  @extend #work;
+  h4{
+    border-right: 5px solid $red;
+  }
+}
+
+#post{
+  margin-top: 10vh;
+  margin-bottom: 3vh;
+  h6{
+    display: inline-block;
+  }
+  p{
+    font-size: 14px;
+  }
+  img{
+    margin: 2vh;
+  }
+  .line{
+    margin-bottom: 3vh;
+  }
+}
+
+// =============================================================================
+// Classes
+// =============================================================================
+.branding{
+  max-width: 90px;
+}
+
+.line{
+  max-width: 200px;
+  padding: 0;
+  margin: 0;
+  height: 20px;
+  background-color: $red;
+}
+.contact-line{
+  @extend .line;
+  height: 4px;
+  margin-bottom: 10px;
+}
+
+.title{
+  border: 4px solid $black;
+  display: inline-block;
+  padding: 10px;
+}
+
+// =============================================================================
+// User Selection
+// =============================================================================
+::selection {
+  background: $red;
+}
+::-moz-selection {
+  background: $red;
+}

@@ -1,0 +1,36 @@
+// Load Fonts
+
+@include font-face(Benton, "../fonts/bentonsans-light-webfont", null, null, woff);
+@include font-face(BentonBold, "../fonts/bentonsans-medium-webfont", null, null, woff);
+
+$white:       #FFFFFF;
+$black:       #111111;
+$red:         #ED145B;
+$redOpacity:  rgba(237,20,91,0.9);
+$whiteOpacity:  rgba(255,255,255,0.1);
+$grey:        #eeeeee;
+
+$color-main: $black;
+$color-backgrounds: $white;
+$color-headlines: $white;
+
+$font-main: 'Benton', Helvetica, sans-serif;
+$font-main-bold: 'BentonBold', Helvetica, sans-serif;
+
+$flex_nav_hoverColor:darken($black,5%);
+$flex_nav_borderColor: darken($black,10%);
+$flex_nav_linkColor: $black;
+$flex_nav_hotdogsColor: $black;
+
+$flex_nav_subNavWidth: 12.5em;
+$flex_nav_breakpoint: 48em;
+
+$screen-xs-min: 450px;
+$screen-sm-min: 726px;
+$screen-md-min: 992px;
+$screen-lg-min: 1200px;
+
+// Menu breakpoints
+$small:		450px;
+$medium:	760px;
+$large:		1200px;

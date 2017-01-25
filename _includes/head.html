@@ -1,0 +1,19 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="{{ "assets/images/favicon.ico" | relative_url }}" type="image/x-icon">
+
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="Cristóbal Valenzuela Barrera">
+  <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
+  <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}">
+  <link rel="shortcut icon" href="{{ "images/favicon.ico" | relative_url }}" type="image/x-icon">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:image" content="{{ page.thumbnail }}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+  {% include google-analytics.html %}
+</head>
