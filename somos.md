@@ -65,17 +65,15 @@ layout: default
       </div>
       <div class="row">
         {% for persona in site.colaboradores %}
-        <div class="col-xs-6 col-sm-4 col-md-3">
-          <img class="img-responsive" src="{{ persona.foto }}" alt="{{ persona.name }}"/>
+        <div class="col-xs-4 col-sm-3 col-md-3">
           <h4>{{ persona.nombre }}</h4>
           <p>{{ persona.cargo }}</p>
           <p><a href="mailto:{{ persona.email }}"> {{ persona.email }} </a></p>
-        {% endfor %}
         </div>
+        {% endfor %}
       </div>
     </div>
   </div>
-
 </section>
 
 <section class="container" id="alianzas">
