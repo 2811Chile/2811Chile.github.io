@@ -1,23 +1,33 @@
-# Site settings
+---
 title: 2811 | Buscamos los cambios del presente para un futuro sostenible.
-email: info@2811.cl
-description: "Trabajamos por un cambio social que promueva el desarrollo sostenible de nuestras comunidades en armonía con el planeta. Colaboramos con agentes líderes de cambio en el desarrollo de personas y organizaciones más coherentes con un desarrollo sostenible."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://2811.cl" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
+timezone: UTC
 collections:
-  - equipo
-  - colaboradores
-  - proyectos
-
+  colaboradores:
+    title: Colaboradores
+    output: false
+  equipo:
+    title: Equipo
+    output: false
+  posts:
+    title: Posts
+    output: true
+  proyectos:
+    title: Proyectos
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+email: info@2811.cl
+description: Trabajamos por un cambio social que promueva el desarrollo sostenible
+  de nuestras comunidades en armonía con el planeta. Colaboramos con agentes líderes
+  de cambio en el desarrollo de personas y organizaciones más coherentes con un desarrollo
+  sostenible.
+baseurl: ''
+url: http://2811.cl
 markdown: kramdown
 kramdown:
   auto_ids: false
-# gems: [jekyll-paginate]
-# paginate: 4
-# paginate_path: '/works/page:num/'
 exclude:
-  - Gemfile
-  - Gemfile.lock
+- Gemfile
+- Gemfile.lock
 permalink: pretty
