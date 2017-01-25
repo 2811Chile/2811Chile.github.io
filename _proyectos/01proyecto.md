@@ -1,5 +1,7 @@
 ---
-nombre: Pescao Frito
+title: 
+date: '2017-01-25 09:38:08'
+nombre: Pescao Fritos
 link: false
 imagen: "/assets/images/proyectos/proyect1.jpg"
 ---
