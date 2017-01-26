@@ -1,10 +1,10 @@
 ---
 title: Proyectos
 permalink: "/proyectos/"
-layout: default
 descripcion: Aorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt atque
   odio non est, voluptatem dicta quaerat totam ipsam, sequi necessitatibus quae ducimus
   nesciunt dolorum deserunt, fugit porro, a eos molestiae.
+layout: default
 ---
 
 <section class="container" id="work">
@@ -24,7 +24,7 @@ descripcion: Aorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt atqu
         <h3><a href="{{ proyecto.link }}">{{ proyecto.nombre }}</a></h3>
         {% else %}
         <img class="img-responsive" src="{{ proyecto.imagen }}" alt="{{ proyecto.nombre }}"/>
-        <h3>{{ proyecto.nombre }}</a></h3>
+        <h3>{{ proyecto.nombre }}</h3>
         {% endif %}
         {{ proyecto.content }}
       {% endfor %}
