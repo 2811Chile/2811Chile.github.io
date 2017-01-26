@@ -1,11 +1,10 @@
 ---
 title: Contacto
 permalink: "/contacto/"
-descripcion: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque
-  dicta ea, porro dignissimos fugit rem dolorum tempore nostrum, eum impedit, nobis
-  hic esse ipsam consectetur reprehenderit soluta cumque voluptatum. Porro.
+descripcion: 'Si quieres saber más sobre lo que hacemos, quieres colaborar o trabajar
+  con nosotros, no dudes en contactarnos. '
 direccion: Apoquindo 3669 piso 18, Las Condes. Santiago, Chile
-telefono: "+56"
+telefono: "+56 2 24614580"
 email: info@2811.cl
 layout: default
 ---
