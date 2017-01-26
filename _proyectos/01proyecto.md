@@ -1,9 +1,9 @@
 ---
-title: 01proyecto
-date: 2017-01-25 09:38:08 Z
-nombre: Pescao Fritos
+title: 01commons
+date: 2017-01-25 09:38:00 Z
+nombre: Commons Latam
 link: false
 imagen: "/assets/images/proyectos/proyect1.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irureorum.
+Commons es una incubadora virtual para que equipos de instituciones de educación superior trabajen en la integración de temas específicos de la educación en innovación social en su institución, facultad, programa curricular u otro.
