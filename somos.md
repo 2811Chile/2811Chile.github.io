@@ -39,7 +39,7 @@ layout: default
           <h2 class="title">Somos</h2>
           <h3>Equipo</h3>
           <p>
-            Gabriela y Waldo han trabajado desde hace cinco años en la promoción del desarrollo sostenible desde espacios académicos, trabajando con fundaciones, empresas, asociaciones de la sociedad civil y otras universidades. Ha desarrollado expertise en el trabajo colaborativo con organizaciones de diferente naturaleza para la solución de problemáticas complejas.
+            Gabriela y Waldo han trabajado cinco años en la promoción de la innovación social y el desarrollo sostenible desde espacios académicos, trabajando mano a mano con fundaciones, empresas, organizaciones de la sociedad civil y otras universidades. Así, han desarrollado expertise en el trabajo colaborativo con organizaciones de diferente naturaleza para la solución de problemáticas complejas.
           </p>
         </div>
       </div>
