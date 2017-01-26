@@ -1,9 +1,8 @@
 ---
 title: Proyectos
 permalink: "/proyectos/"
-descripcion: Aorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt atque
-  odio non est, voluptatem dicta quaerat totam ipsam, sequi necessitatibus quae ducimus
-  nesciunt dolorum deserunt, fugit porro, a eos molestiae.
+descripcion: 'Si quieres saber más sobre lo que hacemos, quieres colaborar o trabajar
+  con nosotros, no dudes en contactarnos. '
 layout: default
 ---
 
