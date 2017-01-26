@@ -1,13 +1,13 @@
 ---
 title: Contacto
 permalink: "/contacto/"
-layout: default
 descripcion: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque
   dicta ea, porro dignissimos fugit rem dolorum tempore nostrum, eum impedit, nobis
   hic esse ipsam consectetur reprehenderit soluta cumque voluptatum. Porro.
-direccion: Apoquindo 12313, Las Condes. Santiago, Chile
-telefono: "+56 2 123 123 12"
+direccion: Apoquindo 3669 piso 18, Las Condes. Santiago, Chile
+telefono: "+56"
 email: info@2811.cl
+layout: default
 ---
 
 <section class="container" id="post">
