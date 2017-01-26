@@ -1,8 +1,8 @@
 ---
 title: Contacto
 permalink: "/contacto/"
-descripcion: 'Si quieres saber más sobre lo que hacemos, quieres colaborar o trabajar
-  con nosotros, no dudes en contactarnos. '
+descripcion: 'Si quieres saber más sobre lo que hacemos, quieres colaborar en algún
+  proyecto o te interesa trabajar con nosotros, no dudes en contactarnos. '
 direccion: Apoquindo 3669, piso 18, Las Condes. Santiago, Chile
 telefono: "+56 2 24614580"
 email: info@2811.cl
