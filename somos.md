@@ -53,7 +53,7 @@ layout: default
       <div class="row">
         <div class="col-xs-8">
            <p style="margin:30px 0px;">
-            Gabriela y Waldo han trabajado cinco años en la promoción de la innovación social y el desarrollo sostenible desde espacios académicos, trabajando mano a mano con fundaciones, empresas, organizaciones de la sociedad civil y otras universidades. Así, han desarrollado expertise en el trabajo colaborativo con organizaciones de diferente naturaleza para la solución de problemáticas complejas.
+            Waldo y Gabriela han trabajado cinco años en la promoción de la innovación social y el desarrollo sostenible desde espacios académicos, trabajando mano a mano con fundaciones, empresas, organizaciones de la sociedad civil y otras universidades. Así, han desarrollado expertise en el trabajo colaborativo con organizaciones de diferente naturaleza para la solución de problemáticas complejas.
           </p>
 <div class="line"></div>
         </div>
