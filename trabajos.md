@@ -1,8 +1,7 @@
 ---
 title: Proyectos
 permalink: "/proyectos/"
-descripcion: 'Si quieres saber más sobre lo que hacemos, quieres colaborar o trabajar
-  con nosotros, no dudes en contactarnos. '
+descripcion: 
 layout: default
 ---
 
