@@ -1,9 +1,9 @@
 ---
 title: Blog
 permalink: "/blog/"
+descripcion: 'Instancias para reflexionar sobre los efectos de nuestras acciones en
+  el futuro de la sociedad y nuestro planeta. '
 layout: default
-descripcion: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt atque
-  odio non est, voluptatem dicta quaerat totam ipsam.
 ---
 
 <section class="container" id="blog">
