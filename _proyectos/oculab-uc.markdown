@@ -6,4 +6,4 @@ link: false
 imagen: 
 ---
 
-Colaboramos en la aproximación metodológica de OcuLab UC, un laboratorio de innovación social para resolver desafíos de la discapacidad visual en Chile. 
+Colaboramos en la aproximación metodológica de OcuLab UC, un laboratorio que ,desde el trabajo colaborativo, busca identificar, investigar y desarrollar iniciativas de innovación social en discapacidad visual en Chile. 
