@@ -6,4 +6,4 @@ link: false
 imagen: 
 ---
 
-Formamos académicos en habilidades y herramientas para la innovación y emprendimiento social. 
+Formamos a académicos en habilidades y herramientas para la innovación y emprendimiento social, impactando en la educación de los próximos agentes de cambio del país. 
