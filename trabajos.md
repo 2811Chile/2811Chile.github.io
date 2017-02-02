@@ -3,7 +3,7 @@ title: Proyectos
 permalink: "/proyectos/"
 descripcion: 'Realizamos proyectos que nos permitan catalizar cambios para un futuro
   sostenible. Colaboramos con diferentes organizaciones que nos permitan avanzar en
-  este propósito. '
+  este propósito.'
 layout: default
 ---
 
@@ -27,8 +27,8 @@ layout: default
         <h3>{{ proyecto.nombre }}</h3>
         {% endif %}
         {{ proyecto.content }}
-      {% endfor %}
       </div>
+    {% endfor %}
     </div>
   </div>
 </section>
