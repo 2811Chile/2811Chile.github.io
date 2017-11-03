@@ -4,6 +4,6 @@ date: 2017-11-03 16:18:00 Z
 nombre: Francisco Moya
 foto: 
 email: francisco@2811.cl
-cargo: 
+cargo: Coordinador de Proyectos
 ---
 
