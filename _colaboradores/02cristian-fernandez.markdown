@@ -1,6 +1,6 @@
 ---
 title: 05Cristian Fernández
-position: 3
+position: 4
 nombre: Cristian Fernández
 email: cristian@2811.cl
 cargo: Diseñador
