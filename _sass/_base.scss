@@ -188,6 +188,55 @@ a:hover{
   }
 }
 
+
+#commons{
+  margin: 50px 0px 5rem 0px;
+}
+
+#commons h3{
+  border-bottom: 2px solid #f38133;
+  padding: 5px 0px;
+  margin: 30px;
+  max-width: 300px;
+}
+
+#commons ul li {
+  margin: 10px;
+  display: inline-block;
+  font-size: 14px;
+  border-bottom: 2px solid #f381355c;
+}
+
+#logo-commons{
+  width: 20rem;
+}
+
+#divider{
+  border-bottom: 10px solid #468ca4;
+  margin: 2rem 0px;
+}
+
+.experiences{
+  margin: 0px;
+}
+
+.experiences-guest{
+  display: inline-block;
+  font-size: 15px;
+  border-bottom: 2px solid #468ca4;
+  margin-bottom: 30px;
+}
+
+.logo-pdf{
+  width: 70px;
+  display: block;
+  margin: 15px 0px;
+}
+
+.download{
+  height: 180px;
+}
+
 // =============================================================================
 // Classes
 // =============================================================================

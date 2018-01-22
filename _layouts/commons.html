@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+    <div id="content">
+      {% include header.html %}
+      <section class="container" id="commons">
+        <div class="col-xs-10 col-xs-offset-1">
+          <h2>Commons Latam</h2>
+          <img src="{{ "assets/images/logos/logo-commons-xl.png" | relative_url }}" id="logo-commons"/>
+        </div>
+        <div class="col-xs-8 col-xs-offset-1">
+          {{ content }}
+          <div class="row">
+            <h3 id="experiencias">Experiencias Commons Latam 2017</h3>
+            {% for i in page.experiences_links %}
+              <div class="col-xs-6">
+                <iframe width="360" height="215" src="https://www.youtube.com/embed/{{ i.item.link }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="experiences"></iframe>
+                <p class="experiences-guest">{{ i.item.name }}</p>
+              </div>
+            {% endfor %}
+            <h3 id="latinoamericanas">Experiencias Latinoamericanas de Innovación Social en la Educación Superior</h3>
+            {% for i in page.edu_sup %}
+            <div class="col-xs-6">
+              <iframe width="360" height="215" src="https://www.youtube.com/embed/{{ i.item.link }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="experiences"></iframe>
+              <p class="experiences-guest">{{ i.item.name }}</p>
+            </div>
+            {% endfor %}
+            <h3 id="internacionales">Experiencias Internacionales de Innovación Social en la Educación Superior</h3>
+            {% for i in page.internacional %}
+            <div class="col-xs-6">
+              <iframe width="360" height="215" src="https://www.youtube.com/embed/{{ i.item.link }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="experiences"></iframe>
+              <p class="experiences-guest">{{ i.item.name }}</p>
+            </div>
+            {% endfor %}
+            <h3 id="descargables">Documentos descargables en español</h3>
+            {% for i in page.downloads %}
+            <div class="col-xs-3 download">
+              <a href={{ i.item.link }}>
+                <img src="{{ "assets/images/logos/pdf.png" | relative_url }}" alt="pdf logo" class="logo-pdf">
+                {{ i.item.name }}
+              </a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </section>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="{{ "assets/js/script.js" | relative_url }}"></script>
+  </body>
+
+</html>
