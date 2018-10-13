@@ -6,3 +6,4 @@ link: http://www.innovacionsocialaysen.cl/
 imagen: "/uploads/Aysen-05%20(2).png"
 ---
 
+Parte del proceso Prototipos de Innovación Social Aysén de Corfo. Levantamos desafíos y apoyamos el desarrollo de innovaciones en las 10 comunas de la región.   
