@@ -1,5 +1,5 @@
 ---
-title: 07Enseña Sustentable
+title: 07EnseñaSustentable
 date: 2018-10-13 18:45:00 Z
 name: Enseña Sustentable
 image: "/uploads/ensen%CC%83a%20sustentable.png"
