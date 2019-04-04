@@ -15,7 +15,7 @@ portada: "/uploads/1_zf81mfbcfJLpzt-YRWa8eg.png"
 excerpt_separator: "<!--mas-->"
 ---
 
-Cuatro niveles diferentes de escucha identifica Otto Scharmer en la Teoría U. La primera vez que los vi me cautivaron. Acababa de participar en un entrenamiento intensivo de 9 días en Comunicación No Violenta (CNV) y estaba gozando llevar a la práctica en mis conversaciones algunas de las distinciones aprendidas allí. La escucha ya había cambiado desde la mera coordinación de actividades, a una práctica profundamente espiritual y amorosa.<!--mas-->
+Cuatro niveles diferentes de escucha identifica Otto Scharmer en la Teoría U. La primera vez que los vi me cautivaron.<!--mas--> Acababa de participar en un entrenamiento intensivo de 9 días en Comunicación No Violenta (CNV) y estaba gozando llevar a la práctica en mis conversaciones algunas de las distinciones aprendidas allí. La escucha ya había cambiado desde la mera coordinación de actividades, a una práctica profundamente espiritual y amorosa.
 
 Mientras que las distinciones claves de la CNV me permitieron conectar con otros de una manera más profunda, los niveles de escucha propuestos por Scharmer me permitieron ver un modelo renovado de la escucha en su totalidad. Junto con las tres actitudes fundamentales que identifica para el funcionamiento de la Teoría U (mente abierta, corazón abierto, voluntad abierta), era una invitación a experienciar la escucha de una nueva forma.
 
