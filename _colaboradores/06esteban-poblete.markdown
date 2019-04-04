@@ -1,7 +1,7 @@
 ---
-title: 06Esteban Poblete
+title: 04Esteban Poblete
 date: 2017-11-04 19:36:00 Z
 nombre: Esteban Poblete
-cargo: Asesor de Proyectos
+cargo: 'Especialista en Innovación Social '
 ---
 
