@@ -77,3 +77,6 @@ Así, tal vez lograremos a través de la escucha regenerar el tejido ecológico 
 · Rosamund Stone Zander & Benjamin Zander: El Arte de la Posibilidad.
 · Joanna Macy & Molly Young Brown: Nuestra Vida como Gaia.
 · Thich Nhat Hanh: El Milagro del Mindfulness.
+
+
+Imagen de portada de www.flaticon.com · CC3 BY
