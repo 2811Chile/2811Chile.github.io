@@ -9,7 +9,7 @@ link-contacto: mailto:tomas@2811.cl
 categorias: teoría u, regeneracion
 bajada: Cuatro niveles diferentes de escucha identifica Otto Scharmer en la Teoría
   U. La primera vez que los vi me cautivaron.
-portada: 
+portada: "/uploads/1_zf81mfbcfJLpzt-YRWa8eg.png"
 excerpt_separator: "<!--mas-->"
 ---
 
