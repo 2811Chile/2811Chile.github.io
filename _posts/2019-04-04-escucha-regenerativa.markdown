@@ -4,6 +4,13 @@ date: 2019-04-04 14:23:00 Z
 nombre: Escucha Regenerativa
 fecha: 
 autor: Tomás Gueneau
+contacto: tomás
+link-contacto: mailto:tomas@2811.cl
+categorias: teoría u, regeneracion
+bajada: Cuatro niveles diferentes de escucha identifica Otto Scharmer en la Teoría
+  U. La primera vez que los vi me cautivaron.
+portada: 
+excerpt_separator: "<!--mas-->"
 ---
 
 Cuatro niveles diferentes de escucha identifica Otto Scharmer en la Teoría U. La primera vez que los vi me cautivaron. Acababa de participar en un entrenamiento intensivo de 9 días en Comunicación No Violenta (CNV) y estaba gozando llevar a la práctica en mis conversaciones algunas de las distinciones aprendidas allí. La escucha ya había cambiado desde la mera coordinación de actividades, a una práctica profundamente espiritual y amorosa.
