@@ -3,10 +3,7 @@ title: Contacto
 permalink: "/contacto/"
 descripcion: 'Si quieres saber más sobre lo que hacemos, quieres colaborar en algún
   proyecto o te interesa trabajar con nosotros, no dudes en contactarnos. '
-direccion: |-
-  Apoquindo 3669, piso 18,  Santiago, Chile
-  Calle 81 #11-08, Bogotá, Colombia
-telefono: 
+direccion: 'Calle 81 #11-08, Bogotá, Colombia'
 email: info@2811.cl
 layout: default
 ---
