@@ -7,8 +7,10 @@ autor: Tomás Gueneau
 contacto: tomás
 link-contacto: mailto:tomas@2811.cl
 categorias: teoría u, regeneracion
-bajada: Cuatro niveles diferentes de escucha identifica Otto Scharmer en la Teoría
-  U. La primera vez que los vi me cautivaron.
+bajada: 'La presencia es una gran herramienta con la que pueden contar los humanos.
+  Todos la tenemos disponible para utilizarla cuando la necesitamos. Mi llave para
+  entrar allí (y así a la escucha profunda) ha sido la meditación. La práctica regular
+  me ha permitido desarrollar la conciencia y el estar presente. '
 portada: "/uploads/1_zf81mfbcfJLpzt-YRWa8eg.png"
 excerpt_separator: "<!--mas-->"
 ---
