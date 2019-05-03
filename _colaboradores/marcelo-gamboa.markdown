@@ -6,4 +6,4 @@ cargo: Especialista en gobernanza de aguas e inteligencia climática
 email: 
 ---
 
-Especialista en gobernanza de aguas e inteligencia climática
+Especialista en aguas, cuencas y cambio climático
