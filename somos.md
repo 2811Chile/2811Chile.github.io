@@ -18,7 +18,7 @@ layout: default
     <div class="row">
       <div class="col-xs-8 col-xs-offset-1">
         <div class="line"></div>
-        <h3>Trabajamos por un cambio social y ecológico que promueva el desarrollo regenerativo de nuestras comunidades en armonía con el planeta.</h3>
+        <h3>Trabajamos por un cambio social y ecológico que promueva el desarrollo regenerativo de las comunidades en armonía con el planeta.</h3>
       </div>
     </div>
     <div class="row">
