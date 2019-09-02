@@ -1,7 +1,6 @@
 ---
-title: Commons Latam
+title: Universidades
 permalink: "/commons-latam/"
-layout: commons
 experiences_links:
 - item:
     name: Universidad de Talca - Pablo Villalobos
@@ -113,6 +112,7 @@ downloads:
 - item:
     name: Un Mundo de “Equipo de Equipos” Por Bill Drayton
     link: "/assets/pdf/Un_Mundo.pdf"
+layout: commons
 ---
 
 #### El programa Commons es una incubadora virtual para que equipos de instituciones de educación superior trabajen en la integración de temas específicos de la educación en innovación social en su institución, facultad, programa curricular u otro. 
