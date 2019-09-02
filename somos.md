@@ -22,7 +22,7 @@ layout: default
       </div>
     </div>
     <div class="row">
-      <div class="col-xs-10 col-xs-offset-1">
+      <div class="col-xs-8 col-xs-offset-1">
         <div class="line"></div>
         <h3>Co-creamos conocimiento, capacidades y proyectos basados en herramientas como la innovación social, emprendimiento social, inversión de impacto y el desarrollo urbano sustentable.</h3>
       </div>
