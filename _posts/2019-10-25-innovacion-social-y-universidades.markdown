@@ -5,17 +5,14 @@ date: 2019-10-25 19:04:00 Z
 
 Las universidades hoy están siendo desafiadas por diversos cambios económicos, sociales y ecológicos. <!--mas--> Esto provoca reformas en la educación superior a nivel global, guiados por un entendimiento de que estas instituciones “debiesen jugar un rol más amplio y directo en la promoción del desarrollo social y económico”.
 
-En particular, algunos de los cuestionamientos vienen de parte de gobiernos que le han quitado prioridad a la generación de conocimiento en algunas ciencias cuestionando su contribución a la sociedad, como ha sido el caso de Brasil en los últimos meses.
+En particular, algunos de los cuestionamientos vienen de parte de gobiernos que le han quitado prioridad a la generación de conocimiento en algunas ciencias cuestionando su contribución a la sociedad, como ha sido el caso de Brasil en los últimos meses. Por otro lado, los desarrollos tecnológicos también han generado un panorama desafiante, tanto por la creciente aparición de plataformas de aprendizaje online de alta calidad, como por programas de formación superior no reconocidos oficialmente, pero que agregan alto valor al desarrollo profesional de sus egresados.
 
-Por otro lado, los desarrollos tecnológicos también han generado un panorama desafiante, tanto por la creciente aparición de plataformas de aprendizaje online de alta calidad, como por programas de formación superior no reconocidos oficialmente, pero que agregan alto valor al desarrollo profesional de sus egresados.
+> Las competencias y conocimiento que requieren los alumnos para ser exitosos en su campo de desarrollo cambian constantemente y cada vez más rápido a medida que la tecnología avanza.
 
-Las competencias y conocimiento que requieren los alumnos para ser exitosos en su campo de desarrollo cambian constantemente y cada vez más rápido a medida que la tecnología avanza.
+Al mismo tiempo, desde un punto de vista institucional los procesos de acreditación de universidades piden de forma creciente una mayor contribución al desarrollo de las ciudades y territorios dónde las instituciones desarrollan su gestión. A lo anterior, se suma la creciente demanda por investigación inter y transdisciplinar, de parte de algunos rankings de universidades. 
 
-Al mismo tiempo, desde un punto de vista institucional los procesos de acreditación de universidades piden crecientemente una mayor contribución al desarrollo de las ciudades y territorios dónde las instituciones desarrollan su gestión.
-
-A lo anterior, se suma la creciente demanda por investigación inter y transdisciplinar, de parte de algunos rankings de universidades. 
-
-La contribución de la innovación social a estos desafíos
+**La contribución de la innovación social a estos desafíos
+** 
 El campo de estudio de la innovación social pareciera contribuir a estos desafíos. “Innovación social” se puede definir como una solución novedosa que es más efectiva, eficiente y sostenible que las existentes, respecto a un problema social determinado. 
 
 Además, diferentes autores han incluido características a este proceso: por un lado, el proceso de satisfacción de necesidades sociales crearía nuevas relaciones o posibilidades de colaboración, impactando en la capacidad del grupo social para actuar.
