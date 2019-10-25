@@ -5,6 +5,8 @@ date: 2019-10-25 19:04:00 Z
 
 Las universidades hoy están siendo desafiadas por diversos cambios económicos, sociales y ecológicos. <!--mas--> Esto provoca reformas en la educación superior a nivel global, guiados por un entendimiento de que estas instituciones “debiesen jugar un rol más amplio y directo en la promoción del desarrollo social y económico”.
 
+La innovación social está en una etapa naciente de desarrollo, las investigaciones continúan creciendo año a año y cada semestre aparecen nuevos programas curriculares y extracurriculares en nuestras universidades.
+
 En particular, algunos de los cuestionamientos vienen de parte de gobiernos que le han quitado prioridad a la generación de conocimiento en algunas ciencias cuestionando su contribución a la sociedad, como ha sido el caso de Brasil en los últimos meses. Por otro lado, los desarrollos tecnológicos también han generado un panorama desafiante, tanto por la creciente aparición de plataformas de aprendizaje online de alta calidad, como por programas de formación superior no reconocidos oficialmente, pero que agregan alto valor al desarrollo profesional de sus egresados.
 
 > Las competencias y conocimiento que requieren los alumnos para ser exitosos en su campo de desarrollo cambian constantemente y cada vez más rápido a medida que la tecnología avanza.
