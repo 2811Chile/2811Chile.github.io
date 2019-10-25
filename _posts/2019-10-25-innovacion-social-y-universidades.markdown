@@ -1,6 +1,15 @@
 ---
-title: Innovación social y universidades
+title: 'Artículo: Innovación social y universidades'
 date: 2019-10-25 19:04:00 Z
+nombre: 'Artículo: Innovación social y universidades'
+fecha: 2019-09-10 00:00:00 Z
+autor: 'Gabriela Carrasco  y Waldo Soto '
+link-contacto: mailto:info@2811.cl
+categorias: Innovación social, universidades
+bajada: 'La innovación social está en una etapa naciente de desarrollo, las investigaciones
+  continúan creciendo año a año y cada semestre aparecen nuevos programas curriculares
+  y extracurriculares en nuestras universidades. '
+excerpt_separator: "<!--mas-->"
 ---
 
 Las universidades hoy están siendo desafiadas por diversos cambios económicos, sociales y ecológicos. <!--mas--> Esto provoca reformas en la educación superior a nivel global, guiados por un entendimiento de que estas instituciones “debiesen jugar un rol más amplio y directo en la promoción del desarrollo social y económico”.
