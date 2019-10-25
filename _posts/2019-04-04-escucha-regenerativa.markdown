@@ -1,5 +1,5 @@
 ---
-title: Escucha Regenerativa
+title: 'Artículo: Escucha Regenerativa'
 date: 2019-04-04 14:23:00 Z
 nombre: Escucha Regenerativa
 fecha: 
@@ -11,7 +11,7 @@ bajada: 'La presencia es una gran herramienta con la que pueden contar los human
   Todos la tenemos disponible para utilizarla cuando la necesitamos. Mi llave para
   entrar allí (y así a la escucha profunda) ha sido la meditación. La práctica regular
   me ha permitido desarrollar la conciencia y el estar presente. '
-portada: "/uploads/1_zf81mfbcfJLpzt-YRWa8eg.png"
+portada: 
 excerpt_separator: "<!--mas-->"
 ---
 
