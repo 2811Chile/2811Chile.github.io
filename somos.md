@@ -53,7 +53,7 @@ layout: default
       <div class="row">
         <div class="col-xs-8">
            <p style="margin:30px 0px;">
-            El equipo de 2811 ha trabajado tres en la promoción de la innovación social y el desarrollo sostenible desde espacios académicos, trabajando mano a mano con fundaciones, empresas, organizaciones de la sociedad civil y otras universidades. Así, han desarrollado expertise en el trabajo colaborativo con organizaciones de diferente naturaleza para la solución de problemáticas complejas.
+           <h4>El equipo de 2811 ha trabajado tres años en la promoción de la innovación social y el desarrollo sostenible desde espacios académicos, trabajando mano a mano con fundaciones, empresas, organizaciones de la sociedad civil y otras universidades en América Latina. Hoy trabajamos en y desde diferentes países incluyendo Chile, Perú, Colombia, México, Brasil, Estados Unidos y Alemania.<h4> 
           </p>
 <div class="line"></div>
         </div>
