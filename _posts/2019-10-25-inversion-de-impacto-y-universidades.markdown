@@ -1,5 +1,5 @@
 ---
-title: Plataforma Ecosistema de Impacto
+title: 'Comunicado: Plataforma Ecosistema de Impacto'
 date: 2019-10-25 18:06:00 Z
 nombre: Inversión de Impacto y Universidades
 fecha: 2019-10-09 00:00:00 Z
