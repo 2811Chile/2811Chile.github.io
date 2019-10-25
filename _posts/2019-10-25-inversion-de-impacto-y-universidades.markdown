@@ -1,5 +1,5 @@
 ---
-title: Inversión de Impacto y Universidades
+title: Plataforma Ecosistema de Impacto
 date: 2019-10-25 18:06:00 Z
 nombre: Inversión de Impacto y Universidades
 fecha: 2019-10-09 00:00:00 Z
@@ -21,7 +21,7 @@ En la segunda parte de la jornada, 2811 abrió la conversación respecto a la fo
 
 ![Image from iOS (1)-d2340f.jpg](/uploads/Image%20from%20iOS%20(1)-d2340f.jpg)
 
-2811 facilitó y participó en esta conversación y tuvo la oportunidad de compartir los avances respecto del mapeo de inversionistas de impacto que se inició en Colombia y los principales hallazgos relacionados con las oportunidades y desafíos para el sector en el país, publicados en www.ecosistemadeimpacto.org; mapeo dinámico que se seguirá robusteciendo incluyendo a otros actores del ecosistema, como Academia, emprendedores, articuladores, aceleradoras, en Colombia y en Latinoamérica. Adicionalmente, 2811 presentó la iniciativa denominada “Comunidad de Aprendizaje y Práctica en Inversión de Impacto para Universidades”, cuyo piloto se está llevando a cabo este semestre con el Tec de Monterrey, sede Guadalajara, con la participación de profesores, estudiantes y con el apoyo de la CAF. Todos están bienvenidos a participar en esta comunidad! (Si quieren saber más al respecto y cómo participar pueden ponerse en contacto con Juanita en  juanita@2811.cl).
+2811 facilitó y participó en esta conversación y tuvo la oportunidad de compartir los avances respecto del mapeo de inversionistas de impacto que se inició en Colombia y los principales hallazgos relacionados con las oportunidades y desafíos para el sector en el país, publicados en www.ecosistemadeimpacto.org; mapeo dinámico que se seguirá robusteciendo incluyendo a otros actores del ecosistema, como Academia, emprendedores, articuladores, aceleradoras, en Colombia y en Latinoamérica. Adicionalmente, 2811 presentó la iniciativa denominada “Comunidad de Aprendizaje y Práctica en Inversión de Impacto para Universidades”, cuyo piloto se está llevando a cabo este semestre con el Tec de Monterrey, sede Guadalajara, con la participación de profesores, estudiantes y con el apoyo de la CAF. Todos están bienvenidos a participar en esta comunidad! (Si quieren saber más al respecto y cómo participar pueden ponerse en contacto con Juanita en  juanita@2811.cl). 
 
 De esta manera 2811 ratifica su misión, a través de ecosistemadeimpacto.org, de visibilizar, conectar y formar a los diferentes actores dentro del ecosistema de inversión de impacto en Latinoamérica, e incluir a la Academia - profesores, alumnos y administrativos - como parte vital en los diálogos y construcción del ecosistema de impacto y el desarrollo del talento humano requerido en la región.
 
