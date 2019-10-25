@@ -1,6 +1,11 @@
 ---
 title: 'Educación en Inversión de Impacto: Un diálogo entre universidades e inversionistas'
 date: 2019-10-25 17:53:00 Z
+categories:
+- press release
+tags:
+- inversión de impacto
+- universidades
 ---
 
 En la tarde del miércoles 9 de octubre lanzamos junto a más de 50 personas representantes de diversas organizaciones entre inversionistas, empresarios, fundaciones empresariales, emprendedores sociales y universidades en Bogotá la nueva plataforma www.ecosistemadeimpacto.org cuyo principal objetivo es visibilizar, conectar y formar a los diferentes actores dentro del ecosistema de inversión de impacto en Latinoamérica. El lanzamiento se dio en el marco del evento “Educación en Inversión de Impacto: Un diálogo entre universidades e inversionistas” organizado por el CESA y 2811, con el apoyo del Centro de Estudios en Gobierno Corporativo (CEGC) del CESA y el Banco de Desarrollo de América Latina CAF. Este espacio se convocó con el objetivo de propiciar un diálogo colaborativo y visibilizar la importancia de integrar a todos los actores, en particular la Academia, como parte necesaria en la construcción y articulación del ecosistema de inversión de impacto en el país. 
