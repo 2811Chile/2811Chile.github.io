@@ -1,5 +1,5 @@
 ---
-title: 'Educación en Inversión de Impacto: Un diálogo entre universidades e inversionistas'
+title: Educación en Inversión de Impacto
 date: 2019-10-25 17:53:00 Z
 categories:
 - press release
