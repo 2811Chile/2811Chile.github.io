@@ -1,7 +1,7 @@
 ---
-title: 'Artículo: Escucha Regenerativa'
+title: Escucha Regenerativa
 date: 2019-04-04 14:23:00 Z
-nombre: Escucha Regenerativa
+nombre: 'Artículo: Escucha Regenerativa'
 fecha: 
 autor: Tomás Gueneau
 contacto: tomás
