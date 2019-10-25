@@ -65,7 +65,6 @@ layout: default
     <div class="col-xs-offset-1 col-xs-10">
       <div class="row">
         <div class="col-xs-8">
-          <h3>Colaboradores</h3>
         </div>
       </div>
       <div class="row">
