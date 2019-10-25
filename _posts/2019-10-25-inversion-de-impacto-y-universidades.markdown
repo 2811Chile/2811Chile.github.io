@@ -1,5 +1,5 @@
 ---
-title: 'Comunicado: Plataforma Ecosistema de Impacto'
+title: Plataforma Ecosistema de Impacto
 date: 2019-10-25 18:06:00 Z
 nombre: 'Comunicado: Inversión de Impacto y Universidades'
 fecha: 2019-10-09 00:00:00 Z
@@ -13,7 +13,7 @@ portada:
 excerpt_separator: "<!--mas-->"
 ---
 
-2811 lanza plataforma para visibilizar el sector de inversión de impacto en Colombia. <!--mas--> En la tarde del miércoles 9 de octubre lanzamos junto a más de 50 personas representantes de diversas organizaciones entre inversionistas, empresarios, fundaciones empresariales, emprendedores sociales y universidades en Bogotá la nueva plataforma www.ecosistemadeimpacto.org cuyo principal objetivo es visibilizar, conectar y formar a los diferentes actores dentro del ecosistema de inversión de impacto en Latinoamérica. El lanzamiento se dio en el marco del evento “Educación en Inversión de Impacto: Un diálogo entre universidades e inversionistas” organizado por el CESA y 2811, con el apoyo del Centro de Estudios en Gobierno Corporativo (CEGC) del CESA y el Banco de Desarrollo de América Latina CAF. Este espacio se convocó con el objetivo de propiciar un diálogo colaborativo y visibilizar la importancia de integrar a todos los actores, en particular la Academia, como parte necesaria en la construcción y articulación del ecosistema de inversión de impacto en el país.
+Comunicado / 2811 lanza plataforma para visibilizar el sector de inversión de impacto en Colombia. <!--mas--> En la tarde del miércoles 9 de octubre lanzamos junto a más de 50 personas representantes de diversas organizaciones entre inversionistas, empresarios, fundaciones empresariales, emprendedores sociales y universidades en Bogotá la nueva plataforma www.ecosistemadeimpacto.org cuyo principal objetivo es visibilizar, conectar y formar a los diferentes actores dentro del ecosistema de inversión de impacto en Latinoamérica. El lanzamiento se dio en el marco del evento “Educación en Inversión de Impacto: Un diálogo entre universidades e inversionistas” organizado por el CESA y 2811, con el apoyo del Centro de Estudios en Gobierno Corporativo (CEGC) del CESA y el Banco de Desarrollo de América Latina CAF. Este espacio se convocó con el objetivo de propiciar un diálogo colaborativo y visibilizar la importancia de integrar a todos los actores, en particular la Academia, como parte necesaria en la construcción y articulación del ecosistema de inversión de impacto en el país.
 
 > "la academia, desde la investigación, formación y extensión, puede aportar al fortalecimiento del sector de inversión de impacto e involucrarse de manera productiva con los emprendedores e inversionistas que hoy están operando en el país", Luz Mila Lancheros.
 
