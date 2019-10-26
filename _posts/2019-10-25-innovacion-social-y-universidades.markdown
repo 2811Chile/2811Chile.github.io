@@ -22,8 +22,7 @@ En particular, algunos de los cuestionamientos vienen de parte de gobiernos que 
 
 Al mismo tiempo, desde un punto de vista institucional los procesos de acreditación de universidades piden de forma creciente una mayor contribución al desarrollo de las ciudades y territorios dónde las instituciones desarrollan su gestión. A lo anterior, se suma la creciente demanda por investigación inter y transdisciplinar, de parte de algunos rankings de universidades. 
 
-**La contribución de la innovación social a estos desafíos  
-**
+**La contribución de la innovación social a estos desafíos**
 
 El campo de estudio de la innovación social pareciera contribuir a estos desafíos. “Innovación social” se puede definir como una solución novedosa que es más efectiva, eficiente y sostenible que las existentes, respecto a un problema social determinado. 
 
