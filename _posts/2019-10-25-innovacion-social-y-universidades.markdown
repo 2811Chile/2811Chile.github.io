@@ -49,8 +49,7 @@ Cuando la innovación social se instala en las instituciones de educación super
 
 Según el trabajo de Ashoka U con Changemaker Campus en todo el mundo, una institución que utiliza la innovación social como estrategia para el cambio y vive los valores de la innovación social de una forma más intencional, aumentará la capacidad de la institución para adaptarse, innovar y ser resiliente, ahora y en el futuro. 
 
-**Brechas en las Universidades que han dado el paso hacia la innovación social
-**
+**Brechas en las Universidades que han dado el paso hacia la innovación social**
 
 Varias universidades ya han venido avanzando en innovación social, pero aun con algunas brechas. En términos de formación, se observa una tendencia a abordar la innovación social como un conjunto de metodologías, más que una mirada sistémica a un problema social o ecológico.
 
