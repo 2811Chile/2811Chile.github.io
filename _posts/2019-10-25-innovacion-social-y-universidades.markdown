@@ -18,7 +18,7 @@ La innovación social está en una etapa naciente de desarrollo, las investigaci
 
 En particular, algunos de los cuestionamientos vienen de parte de gobiernos que le han quitado prioridad a la generación de conocimiento en algunas ciencias cuestionando su contribución a la sociedad, como ha sido el caso de Brasil en los últimos meses. Por otro lado, los desarrollos tecnológicos también han generado un panorama desafiante, tanto por la creciente aparición de plataformas de aprendizaje online de alta calidad, como por programas de formación superior no reconocidos oficialmente, pero que agregan alto valor al desarrollo profesional de sus egresados.
 
-> Las competencias y conocimiento que requieren los alumnos para ser exitosos en su campo de desarrollo cambian constantemente y cada vez más rápido a medida que la tecnología avanza.
+> ### Las competencias y conocimiento que requieren los alumnos para ser exitosos en su campo de desarrollo cambian constantemente y cada vez más rápido a medida que la tecnología avanza.
 
 Al mismo tiempo, desde un punto de vista institucional los procesos de acreditación de universidades piden de forma creciente una mayor contribución al desarrollo de las ciudades y territorios dónde las instituciones desarrollan su gestión. A lo anterior, se suma la creciente demanda por investigación inter y transdisciplinar, de parte de algunos rankings de universidades. 
 
