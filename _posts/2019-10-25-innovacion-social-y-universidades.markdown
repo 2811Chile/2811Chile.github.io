@@ -22,8 +22,9 @@ En particular, algunos de los cuestionamientos vienen de parte de gobiernos que 
 
 Al mismo tiempo, desde un punto de vista institucional los procesos de acreditación de universidades piden de forma creciente una mayor contribución al desarrollo de las ciudades y territorios dónde las instituciones desarrollan su gestión. A lo anterior, se suma la creciente demanda por investigación inter y transdisciplinar, de parte de algunos rankings de universidades. 
 
-**La contribución de la innovación social a estos desafíos
-**  
+**La contribución de la innovación social a estos desafíos  
+**
+
 El campo de estudio de la innovación social pareciera contribuir a estos desafíos. “Innovación social” se puede definir como una solución novedosa que es más efectiva, eficiente y sostenible que las existentes, respecto a un problema social determinado. 
 
 Además, diferentes autores han incluido características a este proceso: por un lado, el proceso de satisfacción de necesidades sociales crearía nuevas relaciones o posibilidades de colaboración, impactando en la capacidad del grupo social para actuar.
@@ -34,8 +35,8 @@ Al mismo tiempo, en el centro del concepto está el involucramiento de los ciuda
 
 Si bien el concepto puede ser novedoso, dados sus principios, no es ajeno al qué hacer de las instituciones de educación superior, de hecho, lo han estado practicando de ciertas formas, con o sin ese nombre.  
 
-**Oportunidades
-** 
+**Oportunidades** 
+
 En términos de oportunidades que ofrece el campo de innovación social, se puede dividir el análisis en las tres misiones de la universidad:
 * En la formación, permite acercar a los estudiantes de una forma menos asistencialista a las comunidades.  En este sentido, viene a contribuir a las estrategias de RSU y A+S, con nuevos métodos, con una nueva mirada, de forma interdisciplinaria y dónde las soluciones se co-creen. En formación también contribuye a un trabajo interdisciplinario de parte de los estudiantes, dado que los problemas sociales así lo requieren. Es natural ver en cursos de innovación social en escuelas de negocios, como los estudiantes requieren métodos de otras ciencias como la sociología, psicología o trabajo social. Un esfuerzo interesante en esta línea ha desarrollado el proyecto Students4Change, al instalar módulos de formación en competencias relacionadas a innovación social en más de 50 cursos de 10 universidades latinoamericanas. 
 
