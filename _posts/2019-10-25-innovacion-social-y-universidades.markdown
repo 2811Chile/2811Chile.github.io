@@ -28,7 +28,7 @@ El campo de estudio de la innovación social pareciera contribuir a estos desaf�
 
 Además, diferentes autores han incluido características a este proceso: por un lado, el proceso de satisfacción de necesidades sociales crearía nuevas relaciones o posibilidades de colaboración, impactando en la capacidad del grupo social para actuar.
 
-> La innovación social funciona como un proceso complejo que cambia las rutinas básicas, los flujos de autoridad y recursos, y el sistema de creencias donde se inserta, con un modelo de negocios que crea valor social.
+> ### La innovación social funciona como un proceso complejo que cambia las rutinas básicas, los flujos de autoridad y recursos, y el sistema de creencias donde se inserta, con un modelo de negocios que crea valor social.
 
 Al mismo tiempo, en el centro del concepto está el involucramiento de los ciudadanos, lo que se entiende cómo “co-creación” o “co-producción” de estas soluciones. En este sentido, la innovación social, como resultado y proceso y a través de sus valores centrales, no solo responde a las necesidades de cambio en la formación, en la investigación y la vinculación con el medio, si no que es una respuesta para la operación de instituciones que deben enfrentar estos cambios y desafíos.
 
