@@ -12,23 +12,46 @@ portada:
 excerpt_separator: "<!--mas-->"
 ---
 
-Comunicado / 
+Como 2811 hemos decidido colaborar con universidades, comunidades y activistas, creando **laboratorios de acción climática en Latinoamérica y Africa.**
 
-Como 2811 hemos decidido colaborar con universidade, comunidades y activistas, creando laboratorios de acción climática en Latinoamérica y Africa. 
-<!--mas--> 
+# Young Climathon Linares
 
 Hemos iniciado este camino activando a jóvenes chilenos mediante una "Young Climathon" en la ciudad de Linares, Chile, en conjunto con el programa Climate-KIC Young Innovators. Linares enfrenta altos niveles de contaminación del aire, desertificación y una crisis agrícola. En la Young Climathon conectamos la crisis climática con la lucha por la justicia social que viven los jóvenes en la sociedad chilena. [Aquí un video resumen de la jornada.](https://youtu.be/L9h5ZFk3xBY)
 
-La Young Climathon convocó a más de 80 profesores y 100 estudiantes entre 12-19 años, y plantó semillas iniciales de habilidades necesarias para enfrentar el desafío del cambio climático. El taller para profesores sacó a la luz varios aspectos de nuestros sistemas educativos que podemos cambiar para guiar a la próxima generación a enfrentar la crisis climática. La empatía es una de las habilidades críticas que los niños en edad escolar necesitan para enfrentar el desafío climático. Otras habilidades críticas, tal como se elaboran en las metodologías de Young Innovators y las discusiones de los docentes, incluyen pensamiento ecosistémico, activismo, bienestar personal y comunitario, colaboración, conocimiento aplicado y fundamental, geografía y conocimiento ambiental. Los maestros discutieron varias metodologías para expandir las capacidades del aula para la futura generación de líderes de Linares.
+![Group Photo Young Climathon.jpg](/uploads/Group%20Photo%20Young%20Climathon.jpg)
 
-El aprendizaje basado en desafíos es una de las metodologías del programa Jóvenes innovadores de Climate-KIC. El objetivo del Young Climathon, una jornada de 10 horas con más que 100 participantes de 8 colegios de Linares, fue que los estudiantes adquieran las habilidades necesarias para enfrentar el cambio climático a través de la resolución de un desafío ambiental local. Para esta jornada, los organizadores plantearon el desafío de mejorar los espacios públicos de Linares para que sean más inclusivos y sostenibles. La invitación fue que los jóvenes piensen en lugares cotidianos, como donde siempre toman el autobús y los hacen más ecológicos amigable y orientado a la comunidad, para tener un impacto positivo en el cambio climático. 
+La Young Climathon convocó a más de 80 profesores y 100 estudiantes entre 12-19 años, y plantó semillas iniciales de habilidades necesarias para enfrentar el desafío del cambio climático. El taller para profesores sacó a la luz varios aspectos de nuestros sistemas educativos que podemos cambiar para guiar a la próxima generación a enfrentar la crisis climática. ![IMG_0537.jpg](/uploads/IMG_0537.jpg)
 
-Los estudiantes se agruparon en equipos y cada equipo eligió el espacio público abierto en Linares para mejorar, ideó una solución para pilotar y construyó un prototipo para presentar a otros equipos. En una elección democrática, los estudiantes juzgaron las otras soluciones de acuerdo con criterios que incluyen creatividad, impacto y colaboración. Los estudiantes en el programa aprenden sobre nuestro impacto humano en el medio ambiente y aprenden cómo trabajar juntos para encontrar e implementar soluciones.
+### *La empatía es una de las habilidades críticas que los niños en edad escolar necesitan para enfrentar el desafío climático. *
+
+Otras habilidades críticas, tal como se elaboran en las metodologías de Young Innovators y las discusiones de los docentes, incluyen pensamiento ecosistémico, activismo, bienestar personal y comunitario, colaboración, geografía y conocimiento ambiental. Los maestros discutieron varias metodologías para expandir las capacidades del aula para la futura generación de líderes de Linares.
+
+Los estudiantes en la jornada de 10 horas de la Young Climthon adquieran las habilidades necesarias para enfrentar el cambio climático a través de la resolución de un desafío ambiental local. 
+
+### *Para esta jornada, los organizadores plantearon el desafío de mejorar los espacios públicos de Linares para que sean más inclusivos y sostenibles. *
+
+La invitación fue que los jóvenes piensen en lugares cotidianos, como donde siempre toman el autobús y los hacen más ecológicos amigable y orientado a la comunidad, para tener un impacto positivo en el cambio climático. Cada equipo de estudiantes eligió el espacio público abierto en Linares para mejorar, ideó una solución para pilotar y construyó un prototipo para presentar a otros equipos. En una elección democrática, los estudiantes juzgaron las otras soluciones de acuerdo con criterios que incluyen creatividad, impacto y colaboración. 
+
+# 2811 en la COP25
 
 Las soluciones de esta jornada fueron presentadas en la COP25 de Madrid, aquí el video de la presentación: [VER](https://youtu.be/RuSKpf4uAGw).
 
-A partir de 2020, empezaremos a trabajar con universidades en esta material, gracias a un fondo de la Unión Europea, Erasmus+. El proyecto, liderado por la Universidad de Caldas en Colombia y 12 universidades de la región y europeas (Brasil, Colombia y México, España, Francia e Italia), con Ashoka como socio experto non-académico, fortalecerá las capacidades de investigación aplicada e innovación para la mitigación y la adaptación al cambio climático en América Latina.
+![Waldo 2.jpeg](/uploads/Waldo%202.jpeg)
+
+La conferencia convocó a líderes mundiales para discutir las reglas de implementación del acuerdo de París, realizado en el Cop21 en 2015. Sin embargo, los líderes poderosos del mundo no tomaron ninguna decisión importante para mantener el calentamiento global a menos de 1.5 grados centígrados. Sus lentos métodos de discusión no abordarán la urgencia de la crisis climática global. 
+
+### *Los momentos más poderosos en las conferencias climáticas fueron las manifestaciones de activistas indígenas y líderes juveniles como Greta Thunberg y los viernes para una futura marcha por Madrid con 500,000 personas.*
+
+La insuficiencia de nuestros líderes nacionales para enfrentar la crisis climática pone la necesidad de innovación y acción en nuestras manos.
+
+# Climate Labs 2020
+
+A partir de 2020, empezaremos a trabajar con universidades en esta material, gracias a un fondo de la Unión Europea, Erasmus\+. El proyecto, liderado por la Universidad de Caldas en Colombia y 12 universidades de la región y europeas (Brasil, Colombia y México, España, Francia e Italia), con Ashoka como socio experto non-académico, fortalecerá las capacidades de investigación aplicada e innovación para la mitigación y la adaptación al cambio climático en América Latina.
 
 El proyecto busca construir laboratorios interdisciplinarios y de múltiples partes interesadas que apliquen nuevas investigaciones e innovaciones sobre el cambio climático en los territorios en los que se basan los socios. [Aquí nota preparada por Reset.org.](https://en.reset.org/blog/eu-funds-latin-american-climate-labs-support-local-innovation-global-climate-challenges-1104201)
 
-Para más información de nuestra plataforma, por favor revisen nuestro sitio web, www.2811.cl o agrega a la comunidad de 2811 en [Linkedin](https://www.linkedin.com/company/2811chile) para mantenerte conectado.
+![Screen Shot 2019-12-10 at 4.11.07 PM.png](/uploads/Screen%20Shot%202019-12-10%20at%204.11.07%20PM.png)
+
+Mientras tanto, estamos desarrollando un proyecto para laboratorios climáticos en África. Nuestro objetivo es facilitar y mejorar el impacto de las acciones locales impulsadas por la comunidad de abajo hacia arriba. 
+
+Si está interesado en co-crear un laboratorio para la acción climática, contáctenos.
