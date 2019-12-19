@@ -23,13 +23,13 @@ Hemos iniciado este camino activando a jóvenes chilenos mediante una "Young Cli
 
 La Young Climathon convocó a más de 80 profesores y 100 estudiantes entre 12-19 años, y plantó semillas iniciales de habilidades necesarias para enfrentar el desafío del cambio climático. El taller para profesores sacó a la luz varios aspectos de nuestros sistemas educativos que podemos cambiar para guiar a la próxima generación a enfrentar la crisis climática.
 
-> ### *La empatía es una de las habilidades críticas que los niños en edad escolar necesitan para enfrentar el desafío climático.*
+> *La empatía es una de las habilidades críticas que los niños en edad escolar necesitan para enfrentar el desafío climático.*
 
 Otras habilidades críticas, tal como se elaboran en las metodologías de Young Innovators y las discusiones de los docentes, incluyen pensamiento ecosistémico, activismo, bienestar personal y comunitario, colaboración, geografía y conocimiento ambiental. Los maestros discutieron varias metodologías para expandir las capacidades del aula para la futura generación de líderes de Linares.
 
 Los estudiantes en la jornada de 10 horas de la Young Climthon adquieran las habilidades necesarias para enfrentar el cambio climático a través de la resolución de un desafío ambiental local.
 
-> ### *Para esta jornada, los organizadores plantearon el desafío de mejorar los espacios públicos de Linares para que sean más inclusivos y sostenibles.*
+> *Para esta jornada, los organizadores plantearon el desafío de mejorar los espacios públicos de Linares para que sean más inclusivos y sostenibles.*
 
 La invitación fue que los jóvenes piensen en lugares cotidianos, como donde siempre toman el autobús y los hacen más ecológicos amigable y orientado a la comunidad, para tener un impacto positivo en el cambio climático. Cada equipo de estudiantes eligió el espacio público abierto en Linares para mejorar, ideó una solución para pilotar y construyó un prototipo para presentar a otros equipos. En una elección democrática, los estudiantes juzgaron las otras soluciones de acuerdo con criterios que incluyen creatividad, impacto y colaboración.
 
@@ -39,7 +39,7 @@ Las soluciones de esta jornada fueron presentadas en la COP25 de Madrid, aquí e
 
 La conferencia convocó a líderes mundiales para discutir las reglas de implementación del acuerdo de París, realizado en el Cop21 en 2015. Sin embargo, los líderes poderosos del mundo no tomaron ninguna decisión importante para mantener el calentamiento global a menos de 1.5 grados centígrados. Sus lentos métodos de discusión no abordarán la urgencia de la crisis climática global.
 
-> ### *Los momentos más poderosos en las conferencias climáticas fueron las manifestaciones de activistas indígenas y líderes juveniles como Greta Thunberg y los viernes para una futura marcha por Madrid con 500,000 personas.*
+> *Los momentos más poderosos en las conferencias climáticas fueron las manifestaciones de activistas indígenas y líderes juveniles como Greta Thunberg y los viernes para una futura marcha por Madrid con 500,000 personas.*
 
 La insuficiencia de nuestros líderes nacionales para enfrentar la crisis climática pone la necesidad de innovación y acción en nuestras manos.
 
