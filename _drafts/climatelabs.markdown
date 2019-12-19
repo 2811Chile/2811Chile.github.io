@@ -13,7 +13,9 @@ excerpt_separator: "<!--mas-->"
 layout: post
 ---
 
-Como 2811 hemos decidido colaborar con universidades, comunidades y activistas, creando **laboratorios de acción climática en Latinoamérica y Africa.**
+Comunicado / Como 2811 hemos decidido colaborar con universidades, comunidades y activistas, creando **laboratorios de acción climática en Latinoamérica y Africa.**
+
+<!--mas-->
 
 # Young Climathon Linares
 
