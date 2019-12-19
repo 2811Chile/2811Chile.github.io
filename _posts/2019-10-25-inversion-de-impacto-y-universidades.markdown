@@ -7,8 +7,7 @@ autor: Luz Mila Lancheros
 contacto: Luz Mila
 link-contacto: mailto:luzmila@2811.cl
 categorias: inversión de impacto, universidades
-bajada: 2811 lanza plataforma para visibilizar el sector de inversión de impacto en
-  Colombia.
+bajada: 2811 lanza laboratorio de inversión de impacto.
 portada: 
 excerpt_separator: "<!--mas-->"
 ---
