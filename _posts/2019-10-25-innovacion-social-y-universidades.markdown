@@ -1,5 +1,5 @@
 ---
-title: Innovación social y Universidades
+title: Innovación Social y Universidades
 date: 2019-10-25 19:04:00 Z
 nombre: Innovación social y universidades
 fecha: 2019-09-10 00:00:00 Z
