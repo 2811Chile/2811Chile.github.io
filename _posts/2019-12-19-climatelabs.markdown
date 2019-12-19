@@ -12,7 +12,12 @@ portada:
 excerpt_separator: "<!--mas-->"
 ---
 
-Comunicado / Chile es un país altamente vulnerable al cambio climático. Sufrimos terremotos, desertificación, sequía, incendios, además que desigualdad social y una falta de derechos humanos en enfrentar los poderosos del país. Estos meses pasados, hemos vivido un estallido social en Chile. La crisis social también es ecológica. Conocemos las desigualdades de la sociedad chilena y el poder del activismo para crear cambios.
+Comunicado / 
+
+Como 2811 hemos decidido colaborar con las comunidades y activistas en este desafío, creando laboratorios de acción climática en Latinoamérica y Africa. 
+<!--mas--> 
+
+Chile es un país altamente vulnerable al cambio climático. Sufrimos terremotos, desertificación, sequía, incendios, además que desigualdad social y una falta de derechos humanos en enfrentar los poderosos del país. Estos meses pasados, hemos vivido un estallido social en Chile. La crisis social también es ecológica. Conocemos las desigualdades de la sociedad chilena y el poder del activismo para crear cambios.
 
 Como 2811 hemos decidido colaborar con las comunidades y activistas en este desafío, creando laboratorios de acción climática en Latinoamérica y Africa. 
 
