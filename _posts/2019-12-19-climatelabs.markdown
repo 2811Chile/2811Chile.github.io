@@ -25,10 +25,12 @@ El aprendizaje basado en desafíos es una de las metodologías del programa Jóv
 
 Los estudiantes se agruparon en equipos y cada equipo eligió el espacio público abierto en Linares para mejorar, ideó una solución para pilotar y construyó un prototipo para presentar a otros equipos. En una elección democrática, los estudiantes juzgaron las otras soluciones de acuerdo con criterios que incluyen creatividad, impacto y colaboración. Los estudiantes en el programa aprenden sobre nuestro impacto humano en el medio ambiente y aprenden cómo trabajar juntos para encontrar e implementar soluciones.
 
-Como 2811 hemos decidido colaborar con las comunidades y activistas en este desafío, creando laboratorios de acción climática en Latinoamérica y Africa. 
+Las soluciones de esta jornada fueron presentadas en la COP25 de Madrid, aquí el video de la presentación: [VER](https://youtu.be/RuSKpf4uAGw).
 
-**Young Climathon Linares, Chile. 
-**
+A partir de 2020, empezaremos a trabajar con universidades en esta material, gracias a un fondo de la Unión Europea, Erasmus+. El proyecto, liderado por la Universidad de Caldas en Colombia y 12 universidades de la región y europeas (Brasil, Colombia y México, España, Francia e Italia), con Ashoka como socio experto non-académico, fortalecerá las capacidades de investigación aplicada e innovación para la mitigación y la adaptación al cambio climático en América Latina.
+
+El proyecto busca construir laboratorios interdisciplinarios y de múltiples partes interesadas que apliquen nuevas investigaciones e innovaciones sobre el cambio climático en los territorios en los que se basan los socios. [Aquí nota preparada por Reset.org.](https://en.reset.org/blog/eu-funds-latin-american-climate-labs-support-local-innovation-global-climate-challenges-1104201)
+
 
 
 Para más información de nuestra plataforma, por favor revisen nuestro sitio web, www.2811.cl o agrega a la comunidad de 2811 en [Linkedin](https://www.linkedin.com/company/2811chile) para mantenerte conectado.
