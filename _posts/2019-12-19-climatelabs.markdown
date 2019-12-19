@@ -17,7 +17,7 @@ Comunicado / Como 2811 hemos decidido colaborar con universidades, comunidades y
 
 <!--mas-->
 
-# Young Climathon Linares
+### Young Climathon Linares
 
 Hemos iniciado este camino activando a jóvenes chilenos mediante una "Young Climathon" en la ciudad de Linares, Chile, en conjunto con el programa Climate-KIC Young Innovators. Linares enfrenta altos niveles de contaminación del aire, desertificación y una crisis agrícola. En la Young Climathon conectamos la crisis climática con la lucha por la justicia social que viven los jóvenes en la sociedad chilena. [Aquí un video resumen de la jornada.](https://youtu.be/L9h5ZFk3xBY)
 
@@ -33,7 +33,7 @@ Los estudiantes en la jornada de 10 horas de la Young Climthon adquieran las hab
 
 La invitación fue que los jóvenes piensen en lugares cotidianos, como donde siempre toman el autobús y los hacen más ecológicos amigable y orientado a la comunidad, para tener un impacto positivo en el cambio climático. Cada equipo de estudiantes eligió el espacio público abierto en Linares para mejorar, ideó una solución para pilotar y construyó un prototipo para presentar a otros equipos. En una elección democrática, los estudiantes juzgaron las otras soluciones de acuerdo con criterios que incluyen creatividad, impacto y colaboración.
 
-# 2811 en la COP25
+### 2811 en la COP25
 
 Las soluciones de esta jornada fueron presentadas en la COP25 de Madrid, aquí el video de la presentación: [VER](https://youtu.be/RuSKpf4uAGw).
 
@@ -43,7 +43,7 @@ La conferencia convocó a líderes mundiales para discutir las reglas de impleme
 
 La insuficiencia de nuestros líderes nacionales para enfrentar la crisis climática pone la necesidad de innovación y acción en nuestras manos.
 
-# Climate Labs 2020
+### Climate Labs 2020
 
 A partir de 2020, empezaremos a trabajar con universidades en esta material, gracias a un fondo de la Unión Europea, Erasmus\+. El proyecto, liderado por la Universidad de Caldas en Colombia y 12 universidades de la región y europeas (Brasil, Colombia y México, España, Francia e Italia), con Ashoka como socio experto non-académico, fortalecerá las capacidades de investigación aplicada e innovación para la mitigación y la adaptación al cambio climático en América Latina.
 
