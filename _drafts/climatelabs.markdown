@@ -6,7 +6,7 @@ fecha: 2019-12-15 00:00:00 Z
 autor: Katie Cashman
 contacto: Katie
 link-contacto: mailto:katie@2811.cl
-categorias: inversión de impacto, universidades
+categorias: cambio climático, laboratorio de acción climática
 bajada: 2811 crea laboratorios de acción climática en Latinoamérica y Africa
 portada: 
 excerpt_separator: "<!--mas-->"
