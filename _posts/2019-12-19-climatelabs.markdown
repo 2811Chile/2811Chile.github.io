@@ -31,6 +31,4 @@ A partir de 2020, empezaremos a trabajar con universidades en esta material, gra
 
 El proyecto busca construir laboratorios interdisciplinarios y de múltiples partes interesadas que apliquen nuevas investigaciones e innovaciones sobre el cambio climático en los territorios en los que se basan los socios. [Aquí nota preparada por Reset.org.](https://en.reset.org/blog/eu-funds-latin-american-climate-labs-support-local-innovation-global-climate-challenges-1104201)
 
-
-
 Para más información de nuestra plataforma, por favor revisen nuestro sitio web, www.2811.cl o agrega a la comunidad de 2811 en [Linkedin](https://www.linkedin.com/company/2811chile) para mantenerte conectado.
