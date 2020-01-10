@@ -1,6 +1,16 @@
 ---
 title: Educación en emprendimiento social en universidades
 date: 2020-01-10 10:57:00 Z
+nombre: Educación Universitaria en Emprendimiento Social
+fecha: 2020-01-09 00:00:00 Z
+autor: Iván Murillo Conde
+contacto: Iván
+link-contacto: mailto:ivandmurilloc@gmail.com
+categorias: educación, emprendimiento social, educación superior, tesis
+bajada: Tesis analiza el contexto universitario latinoamericano de enseñanza del emprendimiento
+  social
+portada: 
+excerpt_separator: "<!--mas-->"
 ---
 
 TESIS / Cómo establecer un programa de educación en emprendimiento social en el contexto universitario latinoamericano: Identificación de factores clave
