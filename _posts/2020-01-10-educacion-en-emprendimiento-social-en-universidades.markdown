@@ -32,5 +32,4 @@ Master in Science Sustainability, Society and Environment. University of Kiel, A
 
 Puedes descargar el documento aquí: [DESCARGAR](https://drive.google.com/open?id=1E-uKwtbhyMTjZO4Q4veTxpcvRDr3RCRa)
 
-*Nos puedes enviar tu tesis a info@2811.cl para difundirla en nuestra red. 
-*
+*Nos puedes enviar tu tesis a info@2811.cl para difundirla en nuestra red*
