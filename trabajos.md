@@ -1,5 +1,5 @@
 ---
-title: Servicios
+title: Proyectos
 permalink: "/proyectos/"
 descripcion: Realizamos proyectos que nos permitan catalizar cambios para un futuro
   sostenible. Colaboramos con diferentes organizaciones que nos permitan avanzar en
