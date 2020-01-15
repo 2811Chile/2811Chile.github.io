@@ -9,7 +9,7 @@ collections:
     title: Equipo
     output: false
   posts:
-    title: Posts
+    title: Servicios
     output: true
   proyectos:
     title: Proyectos
