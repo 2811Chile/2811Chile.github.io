@@ -10,7 +10,7 @@ layout: default
   <div class="col-xs-10 col-xs-offset-1">
     <div class="row">
       <div class="col-xs-12 col-sm-3">
-        <h2 class="title">Blog</h2>
+        <h2 class="title">Servicios</h2>
         <h4>{{ page.descripcion }}</h4>
       </div>
       {% for post in site.posts %}
