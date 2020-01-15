@@ -1,16 +1,16 @@
 ---
-title: Servicios
+title: Blog
 permalink: "/blog/"
 descripcion: 'Instancias para reflexionar sobre los efectos de nuestras acciones en
   el futuro de la sociedad y nuestro planeta. '
 layout: default
 ---
 
-<section class="container" id="servicios">
+<section class="container" id="blog">
   <div class="col-xs-10 col-xs-offset-1">
     <div class="row">
       <div class="col-xs-12 col-sm-3">
-        <h2 class="title">Servicios</h2>
+        <h2 class="title">Blog</h2>
         <h4>{{ page.descripcion }}</h4>
       </div>
       {% for post in site.posts %}
