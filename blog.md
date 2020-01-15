@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Servicios
 permalink: "/blog/"
 descripcion: 'Instancias para reflexionar sobre los efectos de nuestras acciones en
   el futuro de la sociedad y nuestro planeta. '
