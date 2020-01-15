@@ -97,6 +97,7 @@ layout: default
       <div class="col-xs-6 col-sm-4 col-md-3">
         <a href=""><img class="img-responsive" src="/assets/images/logos/utalca.png" /></a>
        </div>
+      <div class="row">
       <div class="col-xs-6 col-sm-4 col-md-3">
         <a href=""><img class="img-responsive" src="/assets/images/logos/Tec.png" /></a>
       </div>
