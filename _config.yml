@@ -8,12 +8,12 @@ collections:
   equipo:
     title: Equipo
     output: false
-  posts:
-    title: Servicios
-    output: true
   proyectos:
     title: Proyectos
     output: false
+  posts:
+    title: Servicios
+    output: true
   uploads:
     title: Uploads
     output: true
