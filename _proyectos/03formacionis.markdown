@@ -1,7 +1,7 @@
 ---
 title: 03formaciónis
 date: 2017-01-31 23:00:00 Z
-position: 2
+position: 4
 nombre: Formación en Innovación Social para académicos
 link: false
 imagen: "/uploads/Captura%20de%20pantalla%202017-02-04%2018.45.28.png"
