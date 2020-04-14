@@ -49,6 +49,6 @@ A partir de 2020, empezaremos a trabajar con universidades en esta material, gra
 
 El proyecto busca construir laboratorios interdisciplinarios y de múltiples partes interesadas que apliquen nuevas investigaciones e innovaciones sobre el cambio climático en los territorios en los que se basan los socios. [Aquí nota preparada por Reset.org.](https://en.reset.org/blog/eu-funds-latin-american-climate-labs-support-local-innovation-global-climate-challenges-1104201)
 
-[DSC09772.JPG](/uploads/DSC09772.JPG)[DSC09670.JPG](/uploads/DSC09670.JPG)
+![DSC09772.JPG](/uploads/DSC09772.JPG)
 
 Si está interesado en co-crear un laboratorio para la acción climática, contáctenos.
