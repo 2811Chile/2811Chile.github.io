@@ -1,0 +1,14 @@
+---
+title: Tookit Agentes de Cambio
+date: 2020-04-14 16:55:00 Z
+nombre: Toolkit Agentes de Cambio
+fecha: 2020-03-15 00:00:00 Z
+autor: Luz Mila Lancheros
+link-contacto: mailto:luzmila@2811.cl
+categorias: herramientas, agentes de cambio, colombia
+bajada: 2811 lanza toolkit para agentes de cambio en Colombia
+portada: 
+excerpt_separator: "<!--mas-->"
+---
+
+Toolkit / Herramientas para agentes de cambio
