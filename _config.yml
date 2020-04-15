@@ -1,5 +1,5 @@
 ---
-title: 2811 | Buscamos los cambios del presente para un futuro sostenible.
+title: 2811 | Buscamos cambios en el presente para un futuro sostenible.
 timezone: UTC
 collections:
   colaboradores:
@@ -22,7 +22,7 @@ description: Trabajamos por un cambio social que promueva el desarrollo sostenib
   de nuestras comunidades en armonía con el planeta. Colaboramos con agentes líderes
   de cambio en el desarrollo de personas y organizaciones más coherentes con un desarrollo
   sostenible.
-baseurl: ''
+baseurl: 
 url: http://2811.cl
 markdown: kramdown
 kramdown:
