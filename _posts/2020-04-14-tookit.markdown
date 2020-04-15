@@ -6,12 +6,12 @@ fecha: 2020-03-15 00:00:00 Z
 autor: Luz Mila Lancheros
 link-contacto: mailto:luzmila@2811.cl
 categorias: herramientas, agentes de cambio, colombia
-bajada: 2811 lanza toolkit para agentes de cambio en Colombia
+bajada: 2811 junto con Movilizatorio lanza toolkit para agentes de cambio
 portada: 
 excerpt_separator: "<!--mas-->"
 ---
 
-15 de Marzo de 2020 / 2811 con Movilizatorio lanzan kit con herramientas para agentes de cambio. <!--mas--> 
+15 de Marzo de 2020 / <!--mas--> 
 
 El kit de herramientas de 2811 y Movilizatorio fue creado para apoyar a agentes de cambio social de Latinoamérica en su camino para escalar su impacto y fortalecer sus equipos. 
 
