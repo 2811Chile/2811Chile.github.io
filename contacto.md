@@ -3,7 +3,7 @@ title: Contacto
 permalink: "/contacto/"
 descripcion: 'Si quieres saber más sobre lo que hacemos, quieres colaborar en algún
   proyecto o te interesa trabajar con nosotros, no dudes en contactarnos. '
-direccion: 'Alemania: Lohmühlenstraße 65, 12435 Berlin.'
+direccion: 'Chile: Avenida Manquehue Sur, Nro. 520, oficina 205, Las Condes.'
 email: info@2811.cl
 layout: default
 ---
