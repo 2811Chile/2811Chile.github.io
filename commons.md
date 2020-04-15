@@ -117,7 +117,7 @@ layout: commons
 
 #### El programa Commons es una incubadora virtual para que equipos de instituciones de educación superior trabajen en la integración de temas específicos de la educación en innovación social en su institución, facultad, programa curricular u otro. 
 
-#### El 2017, Commons Latam fue desarrollado por Ashoka U y Ashoka Chile en conjunto con 2811. En esta versión participaron 14 instituciones de educación superior en Chile, Argentina y Brasil. 
+#### El 2017, Commons Latam fue desarrollado por Ashoka U y Ashoka Chile en conjunto con 2811. El año 2020 Commons inició su sexta versión, han pasado más de 50 universidades y 200 académicos y directivos de universidades de Latinoamérica y Europa.
 
 ##### Acá puedes encontrar ejemplos y documentos que te servirán para profundizar en el desarrollo de la innovación social en tu contexto institucional.
 
