@@ -3,9 +3,9 @@ title: Contacto
 permalink: "/contacto/"
 descripcion: 'Si quieres saber más sobre lo que hacemos, quieres colaborar en algún
   proyecto o te interesa trabajar con nosotros, no dudes en contactarnos. '
-direccion: 'Alemania: Lohmühlenstraße 65, 12435 Berlin.'
+direccion1: 'Alemania: Lohmühlenstraße 65, 12435 Berlin.'
 telefono: 'Colombia: Calle 81 No. 11-08 Piso 5°, Bogotá.'
-telefono2: 'Chile: Avenida Manquehue Sur, Nro. 520, oficina 205, Las Condes.'
+direccion2: 'Chile: Avenida Manquehue Sur, Nro. 520, oficina 205, Las Condes.'
 email: info@2811.cl
 layout: default
 ---
@@ -64,10 +64,13 @@ layout: default
     </div>
     <div class="row">
       <h5 class="col-xs-10">
-        {{ page.direccion }}
+        {{ page.direccion1 }}
       </h5>
       <h5 class="col-xs-10">
         {{ page.telefono }}
+      </h5>
+      <h5 class="col-xs-10">
+        {{ page.direccion2 }}
       </h5>
       <h5 class="col-xs-10">
         <a href="mailto:{{ page.email }}">{{ page.email }}</a>
