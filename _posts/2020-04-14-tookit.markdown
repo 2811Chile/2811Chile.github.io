@@ -11,9 +11,11 @@ portada:
 excerpt_separator: "<!--mas-->"
 ---
 
-15 de Marzo de 2020 / <!--mas--> 
+15 de Marzo de 2020 / 
 
 El kit de herramientas de 2811 y Movilizatorio fue creado para apoyar a agentes de cambio social de Latinoamérica en su camino para escalar su impacto y fortalecer sus equipos. 
+
+<!--mas--> 
 
 Hoy vemos cómo emprendedores sociales sufren de "burnout" o no saben cómo mejorar sus reuniones, al mismo tiempo que deben administrar financieramente sus iniciativas. Esto los pone al límite de sus capacidades por lo que muchas y muchos terminan por dejar sus organizaciones. Este conjunto de cartas es una contribución a esas personas, para que cuiden su propio bienestar, sus equipos y para que amplifiquen el impacto que realizan. 
 
