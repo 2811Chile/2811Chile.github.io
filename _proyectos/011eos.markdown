@@ -1,7 +1,7 @@
 ---
 title: 011 EOS
 date: 2016-04-20 20:59:00 Z
-nombre: Experiencias Online Significativas
+nombre: EOS
 imagen: "/uploads/Experiencias%20Online%20Significativas%20(3).png"
 ---
 
