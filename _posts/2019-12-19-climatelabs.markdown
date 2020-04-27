@@ -13,7 +13,7 @@ excerpt_separator: "<!--mas-->"
 layout: post
 ---
 
-Comunicado / Como 2811 hemos decidido colaborar con universidades, comunidades y activistas, creando **laboratorios de acción climática en Latinoamérica y Africa.**
+Comunicado / Como 2811 colaboramos e impulsamos, junto con universidades, comunidades y activistas, **laboratorios de acción climática en Latinoamérica y Africa que den respuesta a los desafíos actuales.**
 
 <!--mas-->
 
