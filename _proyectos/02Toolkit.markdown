@@ -4,7 +4,7 @@ date: 2020-04-01 16:48:00 Z
 position: 1
 nombre: Toolkit
 link: http://2811.cl/2020/04/14/tookit/
-imagen: "/uploads/Screenshot%202020-04-14%20at%2019.07.56.png"
+imagen: "/uploads/Pagina%202811.png"
 ---
 
 Toolkit, kit de herramientas para agentes de cambio, es un set de tarjetas que co-diseñamos con Movilizatorio para apoyar a los agentes de cambio en Colombia.
