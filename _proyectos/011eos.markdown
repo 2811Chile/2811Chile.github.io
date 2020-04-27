@@ -1,6 +1,6 @@
 ---
 title: 011 EOS
-date: 2020-04-27 20:59:00 Z
+date: 2018-04-01 20:59:00 Z
 nombre: Experiencias Online Significativas
 imagen: "/uploads/Experiencias%20Online%20Significativas%20(3).png"
 ---
