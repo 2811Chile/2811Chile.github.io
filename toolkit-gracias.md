@@ -3,7 +3,6 @@ title: toolkit-gracias
 date: 2020-04-27 20:17:00 Z
 ---
 
-
   <section class="container">
     <div class="row">
       <div class="col-xs-8 col-xs-offset-1">
