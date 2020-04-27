@@ -3,7 +3,7 @@ title: 05Innovación Social Aysén
 date: 2018-11-22 16:47:00 Z
 position: 6
 nombre: Innovación Social Aysén
-link: http://www.innovacionsocialaysen.cl/
+link: 
 imagen: "/uploads/Pagina%202811%20(2).png"
 ---
 
