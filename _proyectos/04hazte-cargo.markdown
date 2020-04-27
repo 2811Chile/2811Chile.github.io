@@ -1,6 +1,6 @@
 ---
 title: 04Hazte Cargo
-date: 2017-11-03 16:33:00 Z
+date: 2018-11-21 16:33:00 Z
 position: 5
 nombre: Hazte Cargo
 link: http://fme.cl/concursos/hazte-cargo-guia-para-emprendedores-sociales/
