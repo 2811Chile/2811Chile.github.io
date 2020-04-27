@@ -13,7 +13,7 @@ portada:
 excerpt_separator: "<!--mas-->"
 ---
 
-TESIS / Cómo establecer un programa de educación en emprendimiento social en el contexto universitario latinoamericano: Identificación de factores claves. 
+TESIS / Cómo establecer un programa de educación en emprendimiento social en el contexto universitario latinoamericano.
 
 <!--mas-->
 
