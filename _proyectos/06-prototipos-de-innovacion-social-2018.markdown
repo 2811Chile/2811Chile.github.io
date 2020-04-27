@@ -2,7 +2,7 @@
 title: 06 Prototipos de Innovación Social 2018
 date: 2018-10-13 18:33:00 Z
 position: 7
-nombre: Prototipos de Innovación Social 2018
+nombre: Prototipos de Innovación Social
 imagen: "/uploads/Pagina%202811%20(3).png"
 ---
 
