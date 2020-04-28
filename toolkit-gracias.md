@@ -3,7 +3,8 @@ title: toolkit-gracias
 permalink: "/toolkit-descarga/"
 layout: default
 ---
-
+</br>
+</br>
   <section class="container">
     <div class="row">
       <div class="col-xs-8 col-xs-offset-1">
@@ -17,7 +18,7 @@ layout: default
     </div>
      <div class="row">
       <div class="col-xs-10 col-xs-offset-1">
-        <h3>¡Suerte en el viaje!</h3>
+        <h4>¡Suerte en el viaje!</h4>
         <div class="line"></div>
       </div>
     </div>
