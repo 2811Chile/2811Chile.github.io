@@ -4,12 +4,25 @@ permalink: "/toolkit-descarga/"
 layout: default
 ---
 
-Gracias por tu interés en el Toolkit para Agentes de Cambio realizado por Movilizatorio y 2811.
+  <section class="container">
+    <div class="row">
+      <div class="col-xs-8 col-xs-offset-1">
+        <h3>Gracias por tu interés en el Toolkit para Agentes de Cambio realizado por Movilizatorio y 2811.</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-10 col-xs-offset-1">
+        <h3>Recibirás un mail con el link para descargarlo.</h3>
+      </div>
+    </div>
+     <div class="row">
+      <div class="col-xs-10 col-xs-offset-1">
+        <h3>¡Suerte en el viaje!</h3>
+        <div class="line"></div>
+      </div>
+    </div>
+  </section>
 
-Recibirás un mail con el link para descargarlo.
-
-
-¡Suerte en el viaje!
 
 <!-- Facebook Pixel Code -->
 <script>
