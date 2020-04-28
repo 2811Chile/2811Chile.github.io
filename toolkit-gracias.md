@@ -1,32 +1,31 @@
 ---
 title: toolkit-gracias
-date: 2020-04-27 20:17:00 Z
-descripcion: hola hola
+permalink: "/toolkit-descarga/"
+layout: default
 ---
 
-hola! 
+Gracias por tu interés en el Toolkit para Agentes de Cambio realizado por Movilizatorio y 2811.
 
-<section class="container">
-<div class="row">
-<div class="col-xs-8 col-xs-offset-1">
-<h2 class="title">28 de Noviembre</h2>
-<h3>Por primera vez en la historia, el 28 de noviembre de 2015, Chile <span>sobrepasó sus límites ecológicos</span>, agotando los recursos naturales correspondientes a un año y, por lo tanto, empezando a gastar lo que, en el fondo, es la herencia para las futuras generaciones. </h3>
-</div>
-</div>
-</section>
+Recibirás un mail con el link para descargarlo.
 
-<section class="container">
-<div class="row">
-<div class="col-xs-8 col-xs-offset-1">
-<div class="line"></div>
-<h3>Trabajamos por un cambio social y ecológico que promueva el desarrollo regenerativo de las comunidades en armonía con el planeta.</h3>
-</div>
-</div>
-<div class="row">
-<div class="col-xs-10 col-xs-offset-1">
-<div class="line"></div>
-<h3>Co-creamos conocimiento, capacidades y proyectos basados en herramientas como la innovación social, emprendimiento social, inversión de impacto y el desarrollo urbano sustentable.</h3>
-</div>
-</div>
-</section>
-</section>
+
+¡Suerte en el viaje!
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '838105219917440');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=838105219917440&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
