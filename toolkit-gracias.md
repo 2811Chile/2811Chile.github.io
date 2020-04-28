@@ -4,9 +4,9 @@ permalink: "/toolkit-descarga/"
 layout: default
 ---
 
-</br>
-</br>
   <section class="container">
+  <br/>
+<br/>
     <div class="row">
       <div class="col-xs-8 col-xs-offset-1">
         <h3>Gracias por tu interés en el Toolkit para Agentes de Cambio realizado por Movilizatorio y 2811.</h3>
