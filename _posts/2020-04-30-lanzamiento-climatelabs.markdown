@@ -13,7 +13,7 @@ Marzo 2020/
 
 <!--mas-->
 
-![Copia de Copia de Copia de Logos Labs 2811.png](/uploads/Copia%20de%20Copia%20de%20Copia%20de%20Logos%20Labs%202811.png)
+![Logos Labs 2811 (6)-d125e7.png](/uploads/Logos%20Labs%202811%20(6)-d125e7.png)
 
 Dentro del área de trabajo de 2811 enfocada en acción climática y nuestra línea en Labs de Acción Climática (LAC), nuestro equipo dirigió la construcción del consorcio y el diseño del proyecto ClimateLabs, en estrecha colaboración con Ashoka México, el cual se lanzó en Colombia en marzo. Los Laboratorios de Acción Climática (LAC) ofrecen metodologías para la toma de decisiones creativas e interdisciplinarias en las instituciones de educación superior, para que los estudiantes desarrollen las habilidades fundamentales necesarias para adaptarse a los desafíos que trae consigo el cambio climático. 
 
@@ -29,4 +29,4 @@ Las universidades participantes de Colombia del eje cafetero - Universidad de Ca
 
 60 profesionales de las universidades participantes se reunieron en la Universidad de Caldas, Colombia, en Manizales, en la primera semana de marzo para iniciar el proyecto. La reunión inicial tuvo como objetivo poner a todos los socios universitarios en la misma página en términos del plan de trabajo y compartir experiencias desde diferentes perspectivas para inspirarse mutuamente sobre lo que puede ser posible en el desarrollo del proyecto en los próximos años. Algunos talleres inspiradores también tuvieron lugar en la Planta de Bioprocesos de la Universidad de Caldas y el Jardín Botánico de la misma universidad. También se llevó a cabo una “sembratón" para compensar las emisiones de carbono causadas por los viajes de los equipos al lanzamiento del proyecto.
 
-\*En 2811, promovemos la integración de la acción climática y la innovación a nivel institucional, capacitando a los académicos, profesionales y ciudadanos que nos conducirán a un futuro climático justo y una economía baja en carbono. Recientemente hemos ampliado la idea de Labs de Acción Climática - LAC en África Oriental y esperamos asociarnos con más universidades y organizaciones para crear un mayor impacto en este campo. Si está interesado en estructurar un LAC en su universidad, organización o empresa, o desea obtener más información sobre el proyecto de ClimateLabs, contáctenos en info@2811.cl. \*
+En 2811, promovemos la integración de la acción climática y la innovación a nivel institucional, capacitando a los académicos, profesionales y ciudadanos que nos conducirán a un futuro climático justo y una economía baja en carbono. Recientemente hemos ampliado la idea de Labs de Acción Climática - LAC en África Oriental y esperamos asociarnos con más universidades y organizaciones para crear un mayor impacto en este campo. Si está interesado en estructurar un LAC en su universidad, organización o empresa, o desea obtener más información sobre el proyecto de ClimateLabs, contáctenos en info@2811.cl. 
