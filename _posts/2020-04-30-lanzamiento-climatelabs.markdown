@@ -27,6 +27,8 @@ Las universidades participantes de Colombia del eje cafetero - Universidad de Ca
 
 **Lanzamiento del proyecto en Manizales, Colombia**
 
+![Logos Labs 2811 (7).png](/uploads/Logos%20Labs%202811%20(7).png)
+
 60 profesionales de las universidades participantes se reunieron en la Universidad de Caldas, Colombia, en Manizales, en la primera semana de marzo para iniciar el proyecto. La reunión inicial tuvo como objetivo poner a todos los socios universitarios en la misma página en términos del plan de trabajo y compartir experiencias desde diferentes perspectivas para inspirarse mutuamente sobre lo que puede ser posible en el desarrollo del proyecto en los próximos años. Algunos talleres inspiradores también tuvieron lugar en la Planta de Bioprocesos de la Universidad de Caldas y el Jardín Botánico de la misma universidad. También se llevó a cabo una “sembratón" para compensar las emisiones de carbono causadas por los viajes de los equipos al lanzamiento del proyecto.
 
 En 2811, promovemos la integración de la acción climática y la innovación a nivel institucional, capacitando a los académicos, profesionales y ciudadanos que nos conducirán a un futuro climático justo y una economía baja en carbono. Recientemente hemos ampliado la idea de Labs de Acción Climática - LAC en África Oriental y esperamos asociarnos con más universidades y organizaciones para crear un mayor impacto en este campo. Si está interesado en estructurar un LAC en su universidad, organización o empresa, o desea obtener más información sobre el proyecto de ClimateLabs, contáctenos en info@2811.cl. 
