@@ -4,8 +4,7 @@ date: 2020-04-30 20:31:00 Z
 nombre: Lanzamiento ClimateLabs
 fecha: 
 autor: katie@2811.cl
-bajada: Lanzamiento en Colombia del proyecto Laboratorios de Acción Climática con
-  13 Universidades - ClimateLabs
+bajada: 
 ---
 
 Marzo 2020/
