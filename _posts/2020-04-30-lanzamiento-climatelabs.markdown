@@ -8,13 +8,13 @@ bajada: Lanzamiento en Colombia del proyecto Laboratorios de Acción Climática 
   13 Universidades - ClimateLabs
 ---
 
-![Logos Labs 2811 (6)-d125e7.png](/uploads/Logos%20Labs%202811%20(6)-d125e7.png)
-
 Marzo 2020/
 
-**Lanzamiento en Colombia del proyecto Laboratorios de Acción Climática con 13 Universidades - ClimateLabs**
+**Lanzamiento en Colombia del proyecto Laboratorios de Acción Climática con 13 Universidades **
 
 <!--mas-->
+
+![Copia de Copia de Copia de Logos Labs 2811.png](/uploads/Copia%20de%20Copia%20de%20Copia%20de%20Logos%20Labs%202811.png)
 
 Dentro del área de trabajo de 2811 enfocada en acción climática y nuestra línea en Labs de Acción Climática (LAC), nuestro equipo dirigió la construcción del consorcio y el diseño del proyecto ClimateLabs, en estrecha colaboración con Ashoka México, el cual se lanzó en Colombia en marzo. Los Laboratorios de Acción Climática (LAC) ofrecen metodologías para la toma de decisiones creativas e interdisciplinarias en las instituciones de educación superior, para que los estudiantes desarrollen las habilidades fundamentales necesarias para adaptarse a los desafíos que trae consigo el cambio climático. 
 
