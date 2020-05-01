@@ -11,9 +11,7 @@ portada:
 excerpt_separator: "<!--mas-->"
 ---
 
-15 de Marzo de 2020 /
-
-El kit de herramientas de 2811 y Movilizatorio fue creado para apoyar a agentes de cambio social de Latinoamérica en su camino para escalar su impacto y fortalecer sus equipos.
+Marzo 2020 / El kit de herramientas de 2811 y Movilizatorio fue creado para apoyar a agentes de cambio social de Latinoamérica.
 
 <!--mas-->
 
@@ -34,18 +32,18 @@ formId: "9ade9cfc-9775-4d28-83ad-d20a8574f942"
 <!-- Facebook Pixel Code -->
 <!-- Facebook Pixel Code -->\
 <script>\
-  !function(f,b,e,v,n,t,s)\
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\
-  n.queue=\[\];t=b.createElement(e);t.async=!0;\
-  t.src=v;s=b.getElementsByTagName(e)\[0\];\
-  s.parentNode.insertBefore(t,s)}(window, document,'script',\
-  'https://connect.facebook.net/en_US/fbevents.js');\
-  fbq('init', '838105219917440');\
-  fbq('track', 'PageView');\
+!function(f,b,e,v,n,t,s)\
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};\
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\
+n.queue=\[\];t=b.createElement(e);t.async=!0;\
+t.src=v;s=b.getElementsByTagName(e)\[0\];\
+s.parentNode.insertBefore(t,s)}(window, document,'script',\
+\'https://connect.facebook.net/en_US/fbevents.js');\
+fbq('init', '838105219917440');\
+fbq('track', 'PageView');\
 </script>\
 <noscript><img height="1" width="1" style="display:none"\
-  src="https://www.facebook.com/tr?id=838105219917440&ev=PageView&noscript=1"\
+src="https://www.facebook.com/tr?id=838105219917440&ev=PageView&noscript=1"\
 /></noscript>\
 <!-- End Facebook Pixel Code -->
