@@ -35,25 +35,20 @@ En 2811, promovemos la integración de la acción climática y la innovación a 
 
 **ClimateLabs Project Launch in Manizales, Colombia with 13 Universities**
 
-***Within 2811’s scope of work on climate action and our initiative on Labs de Acción Climática (LAC), our team led the consortium building and project design of ClimateLabs, in close partnership with Ashoka México, which launched in Colombia in March. Climate Action Laboratories offer methodologies for creative and interdisciplinary decision-making at higher-education institutions, so that students develop the fundamental skills needed to adapt to the challenges of the 21st century.***
+*Within 2811’s scope of work on climate action and our initiative on Labs de Acción Climática (LAC), our team led the consortium building and project design of ClimateLabs, in close partnership with Ashoka México, which launched in Colombia in March. Climate Action Laboratories offer methodologies for creative and interdisciplinary decision-making at higher-education institutions, so that students develop the fundamental skills needed to adapt to the challenges of the 21st century.*
 
-\
 **ClimateLabs Project to promote innovation and collaboration on climate change among universities**
 
-\
 The first iteration of these climate action laboratories will now be developed with a consortium of 13 Universities from Brazil, Mexico, Colombia, France, Italy and Spain. The three-year project, funded by Erasmus\+ grant from the European Union, will establish climate action laboratories in the participating Latin American Universities, in order to strengthen their capacities for research and innovation regarding mitigation and adaptation to climate change. The European Universities will offer guidance and knowledge.
 
 Within these climate labs, different social actors such as universities, local governments, and NGOs can co-create products, services and methodologies to resolve social needs surrounding climate changes and the multiple threats the climate crisis contains. 2811’s role in the project, with Ashoka, is to facilitate knowledge sharing and methodology development between the different partner universities.
 
 The participating Colombian Universities from the coffee region—University of Caldas, University of Manizales, University of Quindío, and the Technological University of Pereria—and UNIMINUTO have elaborated on climate challenges are mostly related to agriculture, while participants from Guadalajara, México from the University of Guadalajara and TEC of Monterrey, emphasize climate change effects in the agricultural region of Jalisco as well as in the large city of Guadalajara. The participating Brazilian universities come from different cities—PUCRS from Porto Alegre, PUCPR from Curitiba and UNICAP from Recife—so they face different environmental challenges based on the geography and the urban context.
 
-\
 **Project Kickoff in Manizales, Colombia**
 
-\
 60 professionals from the participating Universities met at the University of Caldas, Colombia in Manizales in the first week of march to kick off the project. The kickoff meeting aimed to put all the university partners on the same page in terms of the project’s work plan and to share experiences from different perspectives to inspire one another about what could be possible in the development of the project in the upcoming years. Some inspiring workshops also took place in U de Caldas Bioprocesses Plant and the Botanical Garden. We also planted trees in a “sembrathon” to offset the carbon emissions caused by our air travel to Colombia.
 
 ![Imágenes para web - blog.png](/uploads/Ima%CC%81genes%20para%20web%20-%20blog.png)
 
-\
-***At 2811, we promote the integration of climate action and innovation at the institutional level, training the teachers, professionals, and citizens who will lead us a just climate future and a low-carbon economy. We have recently expanded the idea of the climate action laboratories (Labs de Acción Climática - LAC) in East Africa and we hope to partner with more universities and organizations to create further impact in this field. If you’re interested in launching a ClimateLab at your University, organization, or business, or you want to learn more about this project, contact us at info@2811.cl. ***
+*At 2811, we promote the integration of climate action and innovation at the institutional level, training the teachers, professionals, and citizens who will lead us a just climate future and a low-carbon economy. We have recently expanded the idea of the climate action laboratories (Labs de Acción Climática - LAC) in East Africa and we hope to partner with more universities and organizations to create further impact in this field. If you’re interested in launching a ClimateLab at your University, organization, or business, or you want to learn more about this project, contact us at info@2811.cl. *
