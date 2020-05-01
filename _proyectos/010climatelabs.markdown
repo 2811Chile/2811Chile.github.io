@@ -2,7 +2,7 @@
 title: 010ClimateLabs
 date: 2016-04-14 17:50:00 Z
 nombre: ClimateLabs
-link: http://2811.cl/2019/12/19/climatelabs/
+link: https://2811.cl/2020/04/30/lanzamiento-climatelabs/
 imagen: "/uploads/Pagina%202811%20(1).png"
 ---
 
