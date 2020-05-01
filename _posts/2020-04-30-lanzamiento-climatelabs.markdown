@@ -25,9 +25,9 @@ Los laboratorios de cambio climático son escenarios en los que diferentes actor
 
 Las universidades participantes de Colombia del eje cafetero - Universidad de Caldas, Universidad de Manizales, Universidad del Quindío y Universidad Tecnológica de Pereira - y UNIMINUTO han relacionado los desafíos climáticos principalmente con la agricultura. Los participantes de Guadalajara, México, de la Universidad de Guadalajara y TEC de Monterrey, enfatizan los efectos del cambio climático en la región agrícola de Jalisco, así como en la gran ciudad de Guadalajara. Las universidades brasileñas participantes provenientes de diferentes ciudades: PUCRS de Porto Alegre, PUCPR de Curitiba y UNICAP de Recife, enfrentan diferentes desafíos ambientales basados ​​en la geografía y el contexto urbano.
 
-**Lanzamiento del proyecto en Manizales, Colombia**
-
 ![Logos Labs 2811 (7).png](/uploads/Logos%20Labs%202811%20(7).png)
+
+**Lanzamiento del proyecto en Manizales, Colombia**
 
 60 profesionales de las universidades participantes se reunieron en la Universidad de Caldas, Colombia, en Manizales, en la primera semana de marzo para iniciar el proyecto. La reunión inicial tuvo como objetivo poner a todos los socios universitarios en la misma página en términos del plan de trabajo y compartir experiencias desde diferentes perspectivas para inspirarse mutuamente sobre lo que puede ser posible en el desarrollo del proyecto en los próximos años. Algunos talleres inspiradores también tuvieron lugar en la Planta de Bioprocesos de la Universidad de Caldas y el Jardín Botánico de la misma universidad. También se llevó a cabo una “sembratón" para compensar las emisiones de carbono causadas por los viajes de los equipos al lanzamiento del proyecto.
 
