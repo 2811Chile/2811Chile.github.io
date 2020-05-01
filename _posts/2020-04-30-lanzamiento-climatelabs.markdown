@@ -7,9 +7,7 @@ autor: katie@2811.cl
 bajada: 
 ---
 
-Marzo 2020/
-
-**Lanzamiento en Colombia del proyecto Laboratorios de Acción Climática con 13 Universidades **
+Marzo 2020/ Lanzamiento en Colombia del proyecto Laboratorios de Acción Climática con 13 Universidades 
 
 <!--mas-->
 
