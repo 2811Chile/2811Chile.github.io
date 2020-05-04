@@ -1,6 +1,19 @@
 ---
 title: Crisis y acción climática
 date: 2020-05-04 13:04:00 Z
+nombre: Crisis y acción climática
+fecha: 
+autor: Waldo Soto y Luis Cisternas
+contacto: Waldo Soto
+link-contacto: mailto:waldo@2811.cl
+categorias: acción climática, jóvenes agentes de cambio, entrenamiento de profesores
+bajada: Es posible afirmar que la pandemia por COVID-19 podría ser la peor crisis
+  macro y microeconómica de los últimos 100 años, o que efectivamente la crisis climática
+  traiga consecuencias similares a una guerra mundial, pero depende de nosotros generar
+  nuevas comprensiones y herramientas para sobrellevarlas, y que no se conviertan
+  en las peores crisis que las nuevas generaciones tengan que experienciar.
+portada: 
+excerpt_separator: "<!--mas-->"
 ---
 
 Artículo / En tiempos de crisis, podemos preparar mejor a nuestros jóvenes en herramientas para abordar problemas y resolverlos <!--mas--> 
