@@ -23,7 +23,7 @@ Artículo / En tiempos de crisis, podemos preparar mejor a nuestros jóvenes en 
 
 Así se titulan distintos artículos de prensa en las últimas semanas o meses, cada país ha escuchado o leído esta historia. Sin embargo, poco se ha dicho de las características de una crisis y de las implicancias de ésta en la vida de las personas. Por otra parte, poco se ha hecho para asegurar una mejor respuesta individual, comunitaria y local para las crisis que cada cierto tiempo vivimos. A continuación, resumimos algunas aproximaciones para entender mejor cómo nos afecta una crisis y proponemos ver esta crisis como una oportunidad para mejorar nuestra capacidad de enfrentarlas. 
 
-# ¿Qué es una crisis?
+### ¿Qué es una crisis?
 
 A inicios de los años 70s, un grupo de psiquiatras canadienses, escribieron un artículo en un esfuerzo de síntesis sobre la literatura existente que permitía acercarse a la respuesta. Aquí un resumen de ese esfuerzo que puede ayudar a visualizar mejor el tiempo que estamos viviendo. 
 
@@ -33,7 +33,7 @@ Bajo este nuevo estímulo, el individuo sufre una cierta tensión, que lo hace p
 
 Otra característica que enfatiza Caplan, G. (1964) es que una crisis es necesariamente temporal, tiene un inicio y un término. Sin embargo, la percepción del individuo afectado es distinta, y es que la crisis que observa no tiene un final claro o definido. Lo que perdura es el trauma físico o psicológico, o bien un comportamiento adaptativo que mejora las chances de cada persona para resolver otras crisis. 
 
-# ¿Cómo distinguir una situación de crisis? 
+### ¿Cómo distinguir una situación de crisis? 
 *(Traducción propia de Eastham, K., et al, 1970, p. 466)
 *
 * El evento estresante plantea un problema que, por definición, se considera insoluble en el futuro inmediato.
@@ -48,6 +48,8 @@ En la crisis por la pandemia declarada por el virus COVID-19 y en la crisis clim
 (Eastham, K., 1970, p. 465). 
 
 Esta crisis la podemos entonces tomar como oportunidad para adoptar un nuevo comportamiento, ampliar el conjunto de herramientas disponibles y mejorar nuestra capacidad de resolver problemas. La crisis es temporal, depende de nuestra respuesta grupal e individual lo que queda de ella. 
+
+### Promoción de la acción climática en contextos de crisis
 
 Ahora bien, la interrogante que puede surgir respecto a cómo desarrollar esas herramientas que permitan un resultado favorecedor post-crisis, o cambios positivos en el comportamiento que logren una adaptación al nuevo escenario, es de carácter fundamental. Cómo logramos salir de la crisis, con nuevos conocimientos y comportamientos que nos permitan sobrellevarla? ¿Cómo la incorporamos como un proceso de desarrollo que podría llevarnos a algo mejor?
 
