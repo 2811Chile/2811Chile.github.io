@@ -13,7 +13,7 @@ excerpt_separator: "<!--mas-->"
 layout: post
 ---
 
-Comunicado / Como 2811 colaboramos e impulsamos, junto con universidades, comunidades y activistas, **laboratorios de acción climática en Latinoamérica y Africa.**
+Comunicado / Como 2811 colaboramos e impulsamos, junto con universidades, comunidades y activistas, laboratorios de acción climática en Latinoamérica y Africa para la adaptación del cambio climático. 
 
 <!--mas-->
 
@@ -42,7 +42,6 @@ Las soluciones de esta jornada fueron presentadas en la COP25 de Madrid, aquí e
 La conferencia convocó a líderes mundiales para discutir las reglas de implementación del acuerdo de París, realizado en el Cop21 en 2015. Sin embargo, los líderes poderosos del mundo no tomaron ninguna decisión importante para mantener el calentamiento global a menos de 1.5 grados centígrados. Sus lentos métodos de discusión no abordarán la urgencia de la crisis climática global.
 
 > *Los momentos más poderosos en las conferencias climáticas fueron las manifestaciones de activistas indígenas y líderes juveniles como Greta Thunberg y los viernes para una futura marcha por Madrid con 500,000 personas.*
-
 
 ### Climate Labs 2020
 
