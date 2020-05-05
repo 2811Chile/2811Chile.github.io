@@ -1,6 +1,6 @@
 ---
 title: 03formaciónis
-date: 2020-04-22 23:00:00 Z
+date: 2020-05-04 23:00:00 Z
 position: 4
 nombre: Formación en Innovación Social
 link: false
