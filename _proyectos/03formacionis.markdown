@@ -7,4 +7,4 @@ link: false
 imagen: "/uploads/Pagina%202811%20(6).png"
 ---
 
-Formamos a académicos en habilidades y herramientas para la innovación y emprendimiento social, impactando en la educación de los próximos agentes de cambio del país.
+Programa para entrenar a profesionales, estudiantes o académicos en las bases teóricas de la innovación social y en la generación y gestión de una iniciativa de cambio social y ecológico. [¡Revisa más detalles!](https://2811.cl/2020/05/05/formacion-en-innovacion-social/)
