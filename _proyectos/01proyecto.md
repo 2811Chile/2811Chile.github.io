@@ -7,4 +7,4 @@ link: http://ashokau.org/commons/latam/
 imagen: "/uploads/Pagina%202811%20(4).png"
 ---
 
-Commons es una incubadora virtual para que equipos de instituciones de educación superior trabajen en la integración de temas específicos de la educación en innovación social en su institución, facultad, programa curricular u otro.
+Incubadora virtual para equipos de instituciones de educación superior interesados en desarrollar áreas de innovación social. [**¡Aquí más información del programa!**](https://ashokau.org/commons/latam/)
