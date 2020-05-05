@@ -33,7 +33,7 @@ Los estudiantes en la jornada de 10 horas de la Young Climthon adquieran las hab
 
 La invitación fue que los jóvenes piensen en lugares cotidianos, como donde siempre toman el autobús y los hacen más ecológicos amigable y orientado a la comunidad, para tener un impacto positivo en el cambio climático. Cada equipo de estudiantes eligió el espacio público abierto en Linares para mejorar, ideó una solución para pilotar y construyó un prototipo para presentar a otros equipos. En una elección democrática, los estudiantes juzgaron las otras soluciones de acuerdo con criterios que incluyen creatividad, impacto y colaboración.
 
-> ### ¿Quieres activar la acción climática en tu colegio, liceo o ciudad? Escribe a nuestra directora de acción climática, Katie Cashman: katie@2811.cl
+**¿Quieres activar la acción climática en tu colegio, liceo o ciudad? Escribe a nuestra directora de acción climática, Katie Cashman: katie@2811.cl**
 
 ### 2811 en la COP25
 
