@@ -7,11 +7,10 @@ autor: Waldo Soto y Luis Cisternas
 contacto: Waldo Soto
 link-contacto: mailto:waldo@2811.cl
 categorias: acción climática, jóvenes agentes de cambio, entrenamiento de profesores
-bajada: Es posible afirmar que la pandemia por COVID-19 podría ser la peor crisis
-  macro y microeconómica de los últimos 100 años, o que efectivamente la crisis climática
-  traiga consecuencias similares a una guerra mundial, pero depende de nosotros generar
-  nuevas comprensiones y herramientas para sobrellevarlas, y que no se conviertan
-  en las peores crisis que las nuevas generaciones tengan que experienciar.
+bajada: Es posible que estemos enfrentando una de las crisis más desafiantes de los
+  últimos 100 años, pero depende de nosotros generar nuevas comprensiones y herramientas
+  para sobrellevarlas, y que no se conviertan en las peores crisis que las nuevas
+  generaciones tengan que vivir.
 portada: 
 excerpt_separator: "<!--mas-->"
 ---
@@ -34,8 +33,8 @@ Bajo este nuevo estímulo, el individuo sufre una cierta tensión, que lo hace p
 Otra característica que enfatiza Caplan, G. (1964) es que una crisis es necesariamente temporal, tiene un inicio y un término. Sin embargo, la percepción del individuo afectado es distinta, y es que la crisis que observa no tiene un final claro o definido. Lo que perdura es el trauma físico o psicológico, o bien un comportamiento adaptativo que mejora las chances de cada persona para resolver otras crisis. 
 
 ### ¿Cómo distinguir una situación de crisis? 
-*(Traducción propia de Eastham, K., et al, 1970, p. 466)
-*
+*(Traducción propia de Eastham, K., et al, 1970, p. 466)*
+
 * El evento estresante plantea un problema que, por definición, se considera insoluble en el futuro inmediato.
 * El problema pone en riesgo los recursos del individuo o la familia, ya que está más allá de sus métodos tradicionales de resolución de problemas.
 * La situación se considera una amenaza para los objetivos de vida del individuo o grupo humano.
