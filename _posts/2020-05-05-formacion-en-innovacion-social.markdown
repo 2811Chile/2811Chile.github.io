@@ -14,7 +14,7 @@ portada:
 excerpt_separator: "<!--mas-->"
 ---
 
-Colaboramos con personas y organizaciones en instalar mejores prácticas y conocimientos para acelerar el cambio social y ecológico mediante nuestro programa de Formación en Innovación Social.
+Colaboramos con personas y organizaciones en instalar mejores prácticas y conocimientos para acelerar el cambio social y ecológico.
 
 <!--mas-->
 
