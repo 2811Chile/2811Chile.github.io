@@ -1,6 +1,6 @@
 ---
 title: 03formaciónis
-date: 2018-10-13 18:33:00 Z
+date: 2017-10-12 18:33:00 Z
 position: 4
 nombre: Formación en Innovación Social
 link: false
