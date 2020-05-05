@@ -13,7 +13,7 @@ portada:
 excerpt_separator: "<!--mas-->"
 ---
 
-Artículo / Cómo establecer un programa de educación en emprendimiento social en el contexto universitario. 
+Tesis / Cómo establecer un programa de educación en emprendimiento social en el contexto universitario. 
 
 <!--mas-->
 
