@@ -11,7 +11,7 @@ portada:
 excerpt_separator: "<!--mas-->"
 ---
 
-Marzo 2020 / El kit de herramientas de 2811 y Movilizatorio fue creado para apoyar a agentes de cambio social de Latinoamérica.
+Marzo 2020 / El kit de herramientas de 2811 y Movilizatorio fue creado para apoyar a agentes de cambio social a desarrollarse como líderes y fortalecer sus proyectos. 
 
 <!--mas-->
 
