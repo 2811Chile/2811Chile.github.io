@@ -17,7 +17,7 @@ excerpt_separator: "<!--mas-->"
 
 Artículo / En tiempos de crisis, podemos preparar mejor a nuestros jóvenes en herramientas para abordar problemas y resolverlos <!--mas--> 
 
-> “Esta pandemia es la peor crisis de los últimos 100 años”
+## > “Esta pandemia es la peor crisis de los últimos 100 años”
 > “La crisis climática es nuestra tercera guerra mundial”. 
 
 Así se titulan distintos artículos de prensa en las últimas semanas o meses, cada país ha escuchado o leído esta historia. Sin embargo, poco se ha dicho de las características de una crisis y de las implicancias de ésta en la vida de las personas. Por otra parte, poco se ha hecho para asegurar una mejor respuesta individual, comunitaria y local para las crisis que cada cierto tiempo vivimos. A continuación, resumimos algunas aproximaciones para entender mejor cómo nos afecta una crisis y proponemos ver esta crisis como una oportunidad para mejorar nuestra capacidad de enfrentarlas. 
