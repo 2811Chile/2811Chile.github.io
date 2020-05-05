@@ -6,4 +6,4 @@ imagen: "/uploads/Experiencias%20Online%20Significativas%20(3).png"
 link: https://2811.teachable.com/p/eos
 ---
 
-EOS es un programa online desarrollado por Ashoka y 2811 para apoyar a los profesionales de la educación superior en la transición hacia la educación online. [**¡Inscríbete aquí!**](https://2811.teachable.com/p/eos) 
+EOS es un programa online desarrollado para apoyar a los profesionales de la educación superior en la transición hacia la educación online. [**¡Inscríbete aquí!**](https://2811.teachable.com/p/eos) 
