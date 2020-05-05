@@ -63,4 +63,4 @@ Una aproximación a la búsqueda de generación de herramientas para lidiar con 
 
 Es posible afirmar que la pandemia por COVID-19 podría ser la peor crisis macro y microeconómica de los últimos 100 años, o que efectivamente la crisis climática traiga consecuencias similares a una guerra mundial, pero depende de nosotros generar nuevas comprensiones y herramientas para sobrellevarlas, y que no se conviertan en las peores crisis que las nuevas generaciones tengan que vivir.
 
-**### Si quieres saber más de nuestros programas de acción climática, escríbenos a info@2811.cl**
+**### Si quieres saber más de nuestros programas de acción climática para escuelas, escríbenos a info@2811.cl**
