@@ -6,4 +6,4 @@ imagen: "/uploads/ACJ.png"
 link: https://2811.cl/2019/12/19/climatelabs/
 ---
 
-El Programa de Acción Climática para Jóvenes tiene como objetivo, inspirar a los jóvenes (de 12 a 18 años) acerca de habitar el planeta de manera sostenible. 
+Programa para entrenar a profesores y estudiantes en metodologías de promoción de la acción climática local. ¿Quieres sumar a tu escuela? [**¡Revisa más información aquí!**](https://2811.cl/2019/12/19/climatelabs/)
