@@ -57,7 +57,6 @@ email:
         <h4>{{ page.descripcion }}</h4>
         <div class="line"></div>
         </div>
-
     </div>
     <div class="row">
       <h5 class="col-xs-10">
