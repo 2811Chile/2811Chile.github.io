@@ -3,7 +3,7 @@ title: 2811 - Política de privacidad
 date: 2020-05-06 13:45:00 Z
 descripcion: Aquí se puede encontrar información sobre nuestra política de manejo
   de datos.
-políticadatosES: |-
+politicadatosES: |-
   Declaración de protección de datos
 
   Alcance
@@ -26,8 +26,8 @@ políticadatosES: |-
   Derechos del usuario: información, corrección y supresión.
 
   Previa solicitud, usted como usuario recibirá información gratuita sobre qué datos personales se han almacenado sobre usted. Si su solicitud no entra en conflicto con una obligación legal de almacenar datos (por ejemplo, retención de datos), tiene derecho a corregir datos incorrectos y a bloquear o eliminar sus datos personales.
-políticadatosEN: 
-políticadatosDE: "Datenschutzerklärung\n\nGeltungsbereich\n\nDiese Datenschutzerklärung
+politicadatosEN: 
+politicadatosDE: "Datenschutzerklärung\n\nGeltungsbereich\n\nDiese Datenschutzerklärung
   richtet sich an die für Webinar-Teilnehmer und Newsletter-Abonnenten gemäß Bundesdatenschutzgesetz
   und Telemediengesetz über die Art, den Umfang und den Zweck der Erhebung und Verwendung
   personenbezogener Daten durch den Websitebetreiber [2811 Social Enterprise UG info@2811.cl]
@@ -59,13 +59,13 @@ email:
         </div>
         <div class="row">
           <h5 class="col-xs-10">
-           {{ page.políticadatosES }}
+           {{ page.politicadatosES }}
          </h5>
          <h5 class="col-xs-10">
-           {{ page.políticadatosEN }}
+           {{ page.politicadatosEN }}
          </h5>
          <h5 class="col-xs-10">
-           {{ page.políticadatosDE }}
+           {{ page.politicadatosDE }}
          </h5>
          <h5 class="col-xs-10">
          <a href="mailto:{{ page.email }}">{{ page.email }}</a>
