@@ -57,20 +57,19 @@ email:
         <h4>{{ page.descripcion }}</h4>
         <div class="line"></div>
         </div>
-    <div class="row">
-      <h5 class="col-xs-10">
-        {{ page.políticadatosES }}
-      </h5>
-      <h5 class="col-xs-10">
-        {{ page.políticadatosEN }}
-      </h5>
-      <h5 class="col-xs-10">
-        {{ page.políticadatosDE }}
-      </h5>
-      <h5 class="col-xs-10">
-        <a href="mailto:{{ page.email }}">{{ page.email }}</a>
-      </h5>
-
+        <div class="row">
+          <h5 class="col-xs-10">
+           {{ page.políticadatosES }}
+         </h5>
+         <h5 class="col-xs-10">
+           {{ page.políticadatosEN }}
+         </h5>
+         <h5 class="col-xs-10">
+           {{ page.políticadatosDE }}
+         </h5>
+         <h5 class="col-xs-10">
+         <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+         </h5>
     </div>
   </div>
 </section>
