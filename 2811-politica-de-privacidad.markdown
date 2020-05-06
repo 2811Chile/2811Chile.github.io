@@ -1,9 +1,31 @@
 ---
 title: 2811 - Política de privacidad
 date: 2020-05-06 13:45:00 Z
-descripcion: Aquí pueden encontrar información sobre nuestra política de manejo de
-  datos.
-políticadatosES: 
+descripcion: Aquí se puede encontrar información sobre nuestra política de manejo
+  de datos.
+políticadatosES: |-
+  Declaración de protección de datos
+
+  Alcance
+
+  Esta declaración de protección de datos tiene como objetivo informar a los participantes de seminarios web y suscriptores de boletines de acuerdo con la ley chilena Nro 21.096 de 2018 y  la ley colombiana 1581 de 2012 sobre el tipo, alcance y propósito de la recopilación y uso de datos personales por parte del operador del sitio web [Empresa Social 2811 info@2811.cl]. 2811 toma muy en serio su protección de datos y trata sus datos personales de manera confidencial y de acuerdo con las regulaciones legales.
+
+  Datos web recopilados
+
+  El operador del sitio web o el proveedor del sitio web recopila datos al registrarse para seminarios web o boletines informativos. Los datos recopilados solo se utilizarán para ejecutar las actividades que hayan sido declaradas como de interés de los suscriptores y no se transmitirán a terceros.
+
+  Se recopila:
+  • Apellido, nombre
+  • Dirección de correo electrónico
+  • Lugar de trabajo
+
+  Manejo de datos de contacto
+
+  Si contacta al operador del sitio web a través de las opciones de contacto ofrecidas, sus datos se guardarán para que puedan usarse para procesar y responder su solicitud. Sin su consentimiento, estos datos no serán cedidos a terceros.
+
+  Derechos del usuario: información, corrección y supresión.
+
+  Previa solicitud, usted como usuario recibirá información gratuita sobre qué datos personales se han almacenado sobre usted. Si su solicitud no entra en conflicto con una obligación legal de almacenar datos (por ejemplo, retención de datos), tiene derecho a corregir datos incorrectos y a bloquear o eliminar sus datos personales.
 políticadatosEN: 
 políticadatosDE: "Datenschutzerklärung\n\nGeltungsbereich\n\nDiese Datenschutzerklärung
   richtet sich an die für Webinar-Teilnehmer und Newsletter-Abonnenten gemäß Bundesdatenschutzgesetz
