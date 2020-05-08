@@ -40,5 +40,5 @@ En base a esto, 2811 ofrece módulos de aprendizaje presenciales y virtuales en 
 
 **Escalabilidad:** Análisis de los factores de escala que puede desarrollar la iniciativa; Revisión de las distintas formas de escalar que utilizan emprendedores sociales; Diseño de un plan de escalabilidad o transferencia de la iniciativa.
 
-\
-*Solicita una cotización del programa enviando tus requerimientos a nuestra directora, Gabriela Carrasco: gabriela@2811.cl. *
+**\
+Solicita una cotización del programa enviando tus requerimientos a nuestra directora, Gabriela Carrasco: gabriela@2811.cl. **
