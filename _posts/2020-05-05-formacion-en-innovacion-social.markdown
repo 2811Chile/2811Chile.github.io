@@ -20,6 +20,8 @@ Colaboramos con personas y organizaciones en instalar mejores prácticas y conoc
 
 2811 ha desarrollado metodologías de aceleración del cambio social y ecológico desde el año 2016 cuando lanzamos el libro **["Hazte Cargo"](https://www.researchgate.net/publication/322250772_Hazte_Cargo_Guia_para_emprendedores_sociales).** El año 2017 y 2018 entrenamos a más de 200 innovadores sociales y agentes de cambio social en 8 regiones de Chile. Ese mismo año lanzamos el libro **["Innovación Social en el Contexto Brasileño"](https://www.researchgate.net/publication/326464814_EMPREENDEDORISMO_SOCIAL_E_INOVACAO_SOCIAL_NO_CONTEXTO_BRASILEIRO)**, y el año 2020, lanzamos el **["Tool Kit"](https://2811.cl/2020/04/14/tookit/)** para agentes  de cambio con Movilizatorio, en Colombia.
 
+<br/>
+
 En base a esto, 2811 ofrece módulos de aprendizaje presenciales y virtuales en las siguientes áreas:
 
 Cambio social e innovación:** **Comprensión de algunas tendencias de cambio social y ecológico; Comprensión de tendencias en desarrollo de soluciones desde la economía social, nueva economía e innovación; Revisión de las bases teóricas del campo de estudio de la innovación social.
