@@ -1,6 +1,6 @@
 ---
 title: Trasciende
-date: 2017-03-09 00:47:00 Z
+date: 2015-05-07 00:47:00 Z
 nombre: Trasciende
 link: https://2811.cl/2020/05/08/trasciende/
 imagen: "/uploads/Logos%20Labs%202811%20(10).png"
