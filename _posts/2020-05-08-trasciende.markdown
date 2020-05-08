@@ -5,7 +5,7 @@ nombre: Trasciende
 autor: Juanita Corredor
 ---
 
-Formación e innovación social abierta para instituciones de Educación Superior.
+**Formación e innovación social abierta para instituciones de Educación Superior.**
 
 <!--mas-->
 
