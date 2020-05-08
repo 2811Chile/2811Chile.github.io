@@ -2,6 +2,7 @@
 title: Trasciende
 date: 2020-05-08 00:22:00 Z
 nombre: Trasciende
+autor: Juanita Corredor
 ---
 
 Formación e innovación social abierta para instituciones de Educación Superior.
