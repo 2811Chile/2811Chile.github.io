@@ -8,7 +8,7 @@ bajada: 'Cómo el desarrollo de una Comunidad de Aprendizaje puede introducir te
 ---
 
 Opinión/El pasado 17 de abril tuve la oportunidad de compartir en una “Community Conversation”, en el marco del Ashoka Exchange 2020.
- <!--mas--> 
+<!--mas-->
 Esta fue sobre nuestra experiencia con la primera Comunidad de Aprendizaje sobre Inversión de Impacto, en la cual colaboramos con la organización chilena 2811 para desarrollar una comunidad de aprendizaje conformada por estudiantes, profesores de negocios y emprendimiento social, colaboradores de la Zona Ei y mentores aliados de nuestro ecosistema de Emprendimiento Social y del Banco de Desarrollo de América Latina (CAF).
 
 Aprendimos sobre dinero y consciencia, portafolios e instrumentos de inversión, indicadores climáticos y financieros y el reto: crear un indicador que reflejara la relación entre inversión e impacto en el medio ambiente.
