@@ -20,6 +20,6 @@ La experiencia además de retadora fue de gran aprendizaje, pues logramos combin
 
 Compartir esto con los participantes del Exchange fue muy gratificante pues me hizo dar cuenta de los importantes pasos que hemos dado para dar a conocer este tema desde la universidad y cambiar nuestra forma de ver la rentabilidad, ganancias y costos reales de nuestro día a día.
 
-#AshokaUExchange #EspirituEmprendedor #MillionsOfChangemakers #somosChangemakers
+\#AshokaUExchange #EspirituEmprendedor #MillionsOfChangemakers #somosChangemakers
 
-Conoce más de la Comunidad de Aprendizaje [aquí](https://tec.mx/es/noticias/guadalajara/emprendedores/medir-impacto-de-inversiones-alumnos-tec-crean-propuesta-de).  
+Conoce más de la Comunidad de Aprendizaje** [aquí](https://tec.mx/es/noticias/guadalajara/emprendedores/medir-impacto-de-inversiones-alumnos-tec-crean-propuesta-de).**
