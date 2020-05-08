@@ -36,4 +36,18 @@ Cada IES registrada escoge entre un equipo de académicos  y/o staff para ser fo
 
 **Fortalecimiento**
 
-**¿Cómo funciona una plataforma de innovación abierta?**
+* 30 proyectos elegidos por Universidad según votación
+
+* Proceso de fortalecimiento liderado por mentores
+
+* 2 entregables por parte de los participantes
+
+* Hasta el 9 de octubre de 2020
+
+**Anuncio Ganadores**
+
+* Seguimiento a ganadores con mentorías y premio en dinero** **
+
+* 30 de octubre 2020
+
+Para más información inscríbete [aquí](https://docs.google.com/forms/d/1qNSNJJ1qEG0vxBpj-lH85Fk4UPS3ceqApCt3vYw6y9M/viewform?edit_requested=true) o escribe a juanita@2811.cl. 
