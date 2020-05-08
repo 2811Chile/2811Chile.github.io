@@ -33,7 +33,7 @@ Cada IES registrada escoge entre un equipo de académicos  y/o staff para ser fo
 
 * Campaña interna en instituciones
 
-* 3 webinars con expertos 
+* 3 webinars con expertos
 
 * Hasta el 31 de agosto de 2020
 
@@ -49,8 +49,8 @@ Cada IES registrada escoge entre un equipo de académicos  y/o staff para ser fo
 
 **Anuncio Ganadores**
 
-* Seguimiento a ganadores con mentorías y premio en dinero** **
+* Seguimiento a ganadores con mentorías y premios en dinero
 
 * 30 de octubre 2020
 
-Para más información inscríbete [aquí](https://docs.google.com/forms/d/1qNSNJJ1qEG0vxBpj-lH85Fk4UPS3ceqApCt3vYw6y9M/viewform?edit_requested=true) o escribe a juanita@2811.cl. 
+Para más información inscríbete [aquí](https://docs.google.com/forms/d/1qNSNJJ1qEG0vxBpj-lH85Fk4UPS3ceqApCt3vYw6y9M/viewform?edit_requested=true) o escribe a juanita@2811.cl.
