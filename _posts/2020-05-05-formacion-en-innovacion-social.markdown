@@ -22,7 +22,7 @@ Colaboramos con personas y organizaciones en instalar mejores prácticas y conoc
 
 En base a esto, 2811 ofrece módulos de aprendizaje presenciales y virtuales en las siguientes áreas:
 
-**Cambio social e innovación: **Comprensión de algunas tendencias de cambio social y ecológico; Comprensión de tendencias en desarrollo de soluciones desde la economía social, nueva economía e innovación; Revisión de las bases teóricas del campo de estudio de la innovación social.
+Cambio social e innovación:** **Comprensión de algunas tendencias de cambio social y ecológico; Comprensión de tendencias en desarrollo de soluciones desde la economía social, nueva economía e innovación; Revisión de las bases teóricas del campo de estudio de la innovación social.
 
 **Diseño de proyectos de cambio social y ecológico:** Tablero de Diseño de Proyectos de Innovación Social; Gestión de proyectos; Trabajo sobre el entendimiento del equipo inicial de una innovación social.
 
@@ -40,5 +40,5 @@ En base a esto, 2811 ofrece módulos de aprendizaje presenciales y virtuales en 
 
 **Escalabilidad:** Análisis de los factores de escala que puede desarrollar la iniciativa; Revisión de las distintas formas de escalar que utilizan emprendedores sociales; Diseño de un plan de escalabilidad o transferencia de la iniciativa.
 
-**\
-Solicita una cotización del programa enviando tus requerimientos a nuestra directora, Gabriela Carrasco: gabriela@2811.cl. **
+\
+Solicita una cotización del programa enviando tus requerimientos a nuestra directora, Gabriela Carrasco: gabriela@2811.cl. 
