@@ -11,7 +11,7 @@ autor: Juanita Corredor
 
 ![Copia de Sin título (1).png](/uploads/Copia%20de%20Sin%20ti%CC%81tulo%20(1).png)
 
-## **[¡Registrate acá para más información!](https://docs.google.com/forms/u/2/d/1qNSNJJ1qEG0vxBpj-lH85Fk4UPS3ceqApCt3vYw6y9M/edit?usp=drive_web)**
+## **[¡Regístrate acá para más información!](https://docs.google.com/forms/u/2/d/1qNSNJJ1qEG0vxBpj-lH85Fk4UPS3ceqApCt3vYw6y9M/edit?usp=drive_web)**
 
 2811, junto con Socialab y Disruptivo, lanza un programa virtual de fortalecimiento y entrenamiento en emprendimiento de impacto e innovación social para equipos académicos y la puesta en marcha de un primer ejercicio de innovación abierta con el fin de resolver desafíos actuales desde las Instituciones de Educación Superior (IES).
 
