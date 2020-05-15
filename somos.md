@@ -91,6 +91,9 @@ layout: default
       <div class="col-xs-6 col-sm-4 col-md-3 col-xs-offset-1">
         <a href=""><img class="img-responsive" src="/assets/images/logos/ashoka.png" /></a>
       </div>
+      <div class="col-xs-6 col-sm-4 col-md-3 col-xs-offset-1">
+        <a href=""><img class="img-responsive" src="/assets/images/logos/Young%2520Innovators%2520Logo%2520(1).png" /></a>
+      </div>
       <div class="col-xs-6 col-sm-4 col-md-3">
         <a href=""><img class="img-responsive" src="/assets/images/logos/corfo.png" /></a>
       </div>
