@@ -9,7 +9,7 @@ layout: default
     <div class="row">
       <div class="col-xs-8 col-xs-offset-1">
         <h2 class="title">28 de Noviembre</h2>
-        <h3>Por primera vez en la historia, el 28 de noviembre de 2015, Chile <span>sobrepasó sus límites ecológicos</span>, agotando los recursos naturales correspondientes a un año y, por lo tanto, empezando a gastar lo que, en el fondo, es la herencia para las futuras generaciones. 2811 nace en Chile, pero hoy desarrolla proyectos en Colombia, Alemania y Chile.</h3>
+        <h3>Por primera vez en la historia, el 28 de noviembre de 2015, Chile <span>sobrepasó sus límites ecológicos</span>, agotando los recursos naturales correspondientes a un año y, por lo tanto, empezando a gastar lo que, en el fondo, es la herencia para las futuras generaciones. 2811 nace en Chile, pero hoy es una plataforma internacional de cambio social y ecológico.</h3>
       </div>
     </div>
   </section>
@@ -53,7 +53,7 @@ layout: default
       <div class="row">
         <div class="col-xs-8">
            <p style="margin:30px 0px;">
-            <h4>El equipo de 2811 ha trabajado tres años en la promoción de la innovación social y el desarrollo sostenible desde espacios académicos, trabajando mano a mano con fundaciones, empresas, organizaciones de la sociedad civil y otras universidades en América Latina. Hoy trabajamos en y desde diferentes países incluyendo Chile, Perú, Colombia, México, Brasil, Estados Unidos y Alemania.</h4> 
+            <h4>El equipo de 2811 ha trabajado desde hace cinco años en la promoción de la innovación social y el desarrollo sostenible desde espacios académicos, trabajando mano a mano con fundaciones, empresas, organizaciones de la sociedad civil y otras universidades en América Latina. Hoy trabajamos en y desde diferentes países incluyendo Chile, Perú, Colombia, México, Brasil, Estados Unidos y Alemania.</h4> 
           </p>
 <div class="line"></div>
         </div>
