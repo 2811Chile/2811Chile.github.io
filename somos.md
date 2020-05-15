@@ -24,7 +24,7 @@ layout: default
     <div class="row">
       <div class="col-xs-10 col-xs-offset-1">
         <div class="line"></div>
-        <h3>Co-creamos conocimiento, capacidades y proyectos basados en herramientas como la innovación social, emprendimiento social, inversión de impacto y el desarrollo urbano sustentable.</h3>
+        <h3>Co-creamos conocimiento, capacidades y proyectos basados en herramientas como la innovación social, emprendimiento social, inversión de impacto y el desarrollo urbano sustentable. Revisa [aquí](https://2811.cl/proyectos/) nuestros proyectos. </h3>
       </div>
     </div>
   </section>
