@@ -5,7 +5,7 @@ nombre: Trasciende - IS Abierta
 autor: Juanita Corredor
 ---
 
-**Formación e innovación social abierta para instituciones de Educación Superior.**
+**Formación e innovación social abierta post Covid para instituciones de Educación Superior.**
 
 <!--mas-->
 
