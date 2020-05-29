@@ -27,7 +27,7 @@ Cada IES registrada escoge entre un equipo de académicos  y/o staff para ser fo
 
 * Proceso de 12 horas (sesiones virtuales y contenido)
 
-* Junio y julio 2020
+* Junio, julio y agosto 2020
 
 **Ideación**
 
@@ -35,7 +35,7 @@ Cada IES registrada escoge entre un equipo de académicos  y/o staff para ser fo
 
 * 3 webinars con expertos
 
-* Hasta el 31 de agosto de 2020
+* Hasta el 25 de septiembre de 2020
 
 **Fortalecimiento**
 
@@ -45,12 +45,12 @@ Cada IES registrada escoge entre un equipo de académicos  y/o staff para ser fo
 
 * 2 entregables por parte de los participantes
 
-* Hasta el 9 de octubre de 2020
+* Hasta el 14 de noviembre de 2020
 
 **Anuncio Ganadores**
 
 * Seguimiento a ganadores con mentorías y premios en dinero
 
-* 30 de octubre 2020
+* 27 de noviembre 2020
 
 Para más información inscríbete [aquí](https://docs.google.com/forms/d/1qNSNJJ1qEG0vxBpj-lH85Fk4UPS3ceqApCt3vYw6y9M/viewform?edit_requested=true) o escribe a juanita@2811.cl.
