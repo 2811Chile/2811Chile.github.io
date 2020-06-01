@@ -1,15 +1,13 @@
 ---
-title: Trasciende
+title: ImpactaLatam
 date: 2020-05-08 00:22:00 Z
-nombre: Trasciende - Innovación Social Abierta post COVID19
+nombre: ImpactaLatam - Innovación Social Abierta post COVID19
 autor: Juanita Corredor
 ---
 
 **Formación e innovación social abierta post Covid para instituciones de Educación Superior.**
 
 <!--mas-->
-
-![Copia de Sin título (1).png](/uploads/Copia%20de%20Sin%20ti%CC%81tulo%20(1).png)
 
 ## **[¡Regístrate acá para más información!](https://docs.google.com/forms/u/2/d/1qNSNJJ1qEG0vxBpj-lH85Fk4UPS3ceqApCt3vYw6y9M/edit?usp=drive_web)**
 
