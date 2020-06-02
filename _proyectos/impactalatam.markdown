@@ -1,8 +1,8 @@
 ---
-title: Trasciende
+title: ImpactaLatam
 date: 2015-05-07 00:47:00 Z
-nombre: Trasciende
-link: https://2811.cl/2020/05/08/trasciende/
+nombre: ImpactaLatam
+link: https://2811.cl/2020/05/08/impactalatam/
 imagen: "/uploads/Logos%20Labs%202811%20(10).png"
 ---
 
