@@ -6,4 +6,4 @@ nombre: Prototipos de Innovación Social
 imagen: "/uploads/Pagina%202811%20(3).png"
 ---
 
-Desarrollamos la metodología e implementamos, junto con ONG Poloc, la formación para 175 equipos que están generando innovaciones de impacto. 
+Desarrollamos la metodología e implementamos, junto con ONG Poloc, la formación para 175 equipos que están generando innovaciones de impacto en 7 regiones del país.  
