@@ -1,7 +1,6 @@
 ---
 title: Ecosistema de Impacto
 date: 2020-05-05 20:06:00 Z
-published: false
 nombre: Ecosistema de Impacto
 imagen: 
 link: http://ecosistemadeimpacto.org/
