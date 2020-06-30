@@ -1,6 +1,6 @@
 ---
 title: Ecosistema de Impacto
-date: 2020-05-05 20:06:00 Z
+date: 2017-05-05 20:06:00 Z
 nombre: Ecosistema de Impacto
 imagen: "/uploads/Logos%20Labs%202811%20(14).png"
 link: http://ecosistemadeimpacto.org/
