@@ -12,13 +12,10 @@ Service/ Improve the way you generate virtual
 learning communities, through online seminars, conferences, and lessons.
 <!--mas-->
 
-> We decide what we can learn from this Crisis. Through conscious virtual learning, we can generate a sustainable way of creating knowledge, communities and measurable impact.
 
-**Our Purpose**
+## Our Purpose: 
 
-* We believe in exploring new ways of connecting and sharing knowledge.
-As this crisis completely changes the way we teach and learn, we must adapt.
-No one should be left behind as we gain the knowledge and capacity to  move to a better future.
+> ## We believe in exploring new ways of connecting and sharing knowledge. As this crisis completely changes the way we teach and learn, we must adapt. No one should be left behind as we gain the knowledge and capacity to move to a better future.
 
 Why Online Learning Communities?
 
