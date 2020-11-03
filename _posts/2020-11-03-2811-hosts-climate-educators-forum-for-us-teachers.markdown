@@ -2,7 +2,7 @@
 title: 2811 Hosts Climate Educators Forum for U.S. Teachers
 date: 2020-11-03 20:03:00 Z
 nombre: 2811 Hosts Climate Educators Forum for U.S. Teachers
-Autor: Katie
+autor: Katie
 link-contacto: katie@2811.cl
 categorias: Educacion, profesores, docentes
 bajada: The newly established 2811 USA team hosted 25 educators of various subjects
