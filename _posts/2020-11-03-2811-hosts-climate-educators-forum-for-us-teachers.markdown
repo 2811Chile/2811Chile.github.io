@@ -5,9 +5,12 @@ nombre: 2811 Hosts Climate Educators Forum for U.S. Teachers
 Autor: Katie
 link-contacto: katie@2811.cl
 categorias: Educacion, profesores, docentes
-bajada: The objective of this forum was to inspire and be inspired by the practices
-  teachers are implementing in their classrooms.
-foto: "/uploads/Postblog1.png"
+bajada: The newly established 2811 USA team hosted 25 educators of various subjects
+  from around the U.S. in our first Climate Educators Forum on September 12, 2020
+  to discuss the ways educators are teaching about climate change. The objective of
+  this forum was to inspire and be inspired by the practices teachers are implementing
+  in their classrooms.
+portada: "/uploads/Postblog1.png"
 ---
 
 The United States news in September was dominated by climate change stories, ranging from red skies and wildfires raging across the West Coast, to hurricane season wreaking havoc in the Gulf of Mexico and Caribbean. Within this context, the newly established 2811 USA team hosted 25 educators of various subjects from around the U.S. in our first Climate Educators Forum on September 12, 2020 to discuss the ways educators are teaching about climate change. The objective of this forum was to inspire and be inspired by the practices teachers are implementing in their classrooms. With a mix of presentations and workshops, the Climate Educators Forum illuminated the many ways climate change education is evolving across the country in various institutional contexts.
