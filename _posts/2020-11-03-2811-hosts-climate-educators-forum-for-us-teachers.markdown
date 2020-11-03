@@ -10,7 +10,6 @@ bajada: The newly established 2811 USA team hosted 25 educators of various subje
   to discuss the ways educators are teaching about climate change. The objective of
   this forum was to inspire and be inspired by the practices teachers are implementing
   in their classrooms.
-portada: "/uploads/Postblog1.png"
 ---
 
 The United States news in September was dominated by climate change stories, ranging from red skies and wildfires raging across the West Coast, to hurricane season wreaking havoc in the Gulf of Mexico and Caribbean. Within this context, the newly established 2811 USA team hosted 25 educators of various subjects from around the U.S. in our first Climate Educators Forum on September 12, 2020 to discuss the ways educators are teaching about climate change. The objective of this forum was to inspire and be inspired by the practices teachers are implementing in their classrooms. With a mix of presentations and workshops, the Climate Educators Forum illuminated the many ways climate change education is evolving across the country in various institutional contexts.
@@ -34,3 +33,4 @@ The results of the post-event survey show that participants are interested in le
 You can watch the full recording at this [youtube link.](https://www.youtube.com/watch?v=RBVJxrkN3tg&feature=youtu.be)
 
 2811 is launching a Climate Action Academy in November, an in-depth, 4-week teacher training program. Participants will be certified climate educators by Climate-KIC (the European Climate Innovation Community). If you’re interested in signing up for the Climate Action Academy, or if you think a cohort of teachers from your school and/or school district could sign up as a group (and thus receive a group discount), please reach out to Katie and she’ll send you more information (katie@2811.cl).
+![Postblog1.png](/uploads/Postblog1.png)
