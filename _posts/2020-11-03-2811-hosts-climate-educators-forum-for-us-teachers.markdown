@@ -1,9 +1,12 @@
 ---
 title: 2811 Hosts Climate Educators Forum for U.S. Teachers
-date: 2013-05-21 20:03:00 Z
+date: 2020-11-03 20:03:00 Z
 nombre: 2811 Hosts Climate Educators Forum for U.S. Teachers
-fecha: 2015-01-02 00:00:00 Z
 Autor: Katie
+link-contacto: katie@2811.cl
+categorias: Educacion, profesores, docentes
+bajada: The objective of this forum was to inspire and be inspired by the practices
+  teachers are implementing in their classrooms.
 foto: "/uploads/Postblog1.png"
 ---
 
