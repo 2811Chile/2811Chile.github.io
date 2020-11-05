@@ -36,4 +36,4 @@ You can watch the full recording at this [youtube link.](https://www.youtube.com
 
 2811 is launching a Climate Action Academy in November, an in-depth, 4-week teacher training program. Participants will be certified climate educators by Climate-KIC (the European Climate Innovation Community). If you’re interested in signing up for the Climate Action Academy, or if you think a cohort of teachers from your school and/or school district could sign up as a group (and thus receive a group discount), please reach out to Katie and she’ll send you more information (katie@2811.cl).
 
-![Postblog1.png](/uploads/Postblog1.png)
+![Diseño sin título (14).png](/uploads/Disen%CC%83o%20sin%20ti%CC%81tulo%20(14).png)
