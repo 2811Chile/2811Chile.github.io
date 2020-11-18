@@ -7,6 +7,10 @@ bajada: 'Noviembre 2020 / Lanzamiento de la Academia de Acción Climática con l
   de más de 200 profesores y profesoras en Colombia y Chile. '
 ---
 
+Noviembre 2020 / Lanzamiento de la Academia de Acción Climática con la participación de más de 200 profesores y profesoras en Colombia y Chile. 
+
+<!--mas-->
+
 La Academia de Acción Climática (AAC) es un programa virtual de entrenamiento en cambio climático, ciudades sustentables y soluciones verdes para profesores y profesoras. El objetivo es que estas temáticas se incluyan en los currículos a nivel local y que los profesores se sientan mejor preparados para enseñar sobre el cambio climático a través de la perspectiva de cualquier asignatura, no limitado a matemáticas y ciencias, sino también a través de geografía, educación cívica, arte y lenguaje, entre otros. 
 
 ![ACC1.png](/uploads/ACC1.png)
