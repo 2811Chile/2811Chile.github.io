@@ -1,6 +1,7 @@
 ---
 title: Lanzamiento de la Academia de Acción Climática-2020 II
 date: 2020-11-18 01:17:00 Z
+published: false
 nombre: Lanzamiento de la Academia de Acción Climática - 2020 II
 autor: Daniela Granados -Luz Mila Lancheros
 bajada: 'Noviembre 2020 / Lanzamiento de la Academia de Acción Climática con la participación
