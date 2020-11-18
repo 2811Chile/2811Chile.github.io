@@ -3,8 +3,6 @@ title: Lanzamiento de la Academia de Acción Climática-2020 II
 date: 2020-11-18 01:17:00 Z
 nombre: Lanzamiento de la Academia de Acción Climática - 2020 II
 autor: Daniela Granados -Luz Mila Lancheros
-bajada: 'Noviembre 2020 / Lanzamiento de la Academia de Acción Climática con la participación
-  de más de 200 profesores y profesoras en Colombia y Chile. '
 ---
 
 Noviembre 2020 / Lanzamiento de la Academia de Acción Climática con la participación de más de 200 profesores y profesoras en Colombia y Chile. 
