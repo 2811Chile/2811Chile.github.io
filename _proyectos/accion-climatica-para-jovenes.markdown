@@ -1,5 +1,5 @@
 ---
-title: Acción Climática para Jóvenes
+title: Academia de acción climática
 date: 2017-04-05 20:45:00 Z
 nombre: Academia de Acción Climática/Climate Action Academy
 imagen: "/uploads/Climate%20Action%20Academy.png"
