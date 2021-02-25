@@ -20,8 +20,7 @@ La Academia de Acción Climática es un programa de formación virtual, liderado
 
 El mundo necesita hoy más que nunca agentes de cambio social positivo, este es un reconocimiento a ellas y ellos, a sus iniciativas y a sus equipos.
 
-**Descarga a continuación las guías preparadas por educadoras y educadores de Colombia y Chile:
-**
+**Descarga a continuación las guías preparadas por educadoras y educadores de Colombia y Chile:**
 
 ![Captura de pantalla 2021-02-25 a las 21.58.32.png](/uploads/Captura%20de%20pantalla%202021-02-25%20a%20las%2021.58.32.png)
 
