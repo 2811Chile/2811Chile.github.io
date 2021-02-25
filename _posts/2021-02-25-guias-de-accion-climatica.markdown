@@ -32,8 +32,7 @@ El mundo necesita hoy más que nunca agentes de cambio social positivo, este es 
 });
 </script>
 
-**Descarga a continuación las guías preparadas por educadoras y educadores de Estados Unidos:
-**
+**Descarga a continuación las guías preparadas por educadoras y educadores de Estados Unidos:**
 
 ![Captura de pantalla 2021-02-25 a las 21.59.49.png](/uploads/Captura%20de%20pantalla%202021-02-25%20a%20las%2021.59.49.png)
 
