@@ -3,7 +3,8 @@ title: Guías de Acción Climática
 date: 2021-02-25 20:07:00 Z
 nombre: Guías Acción Climática
 fecha: 2021-02-26 00:00:00 Z
-link-contacto: mailto:luzmila@2811.cl
+autor: Katie Cashman
+link-contacto: mailto:katie@2811.cl
 categorias: herramientas, agentes de cambio, acción climática
 bajada: Educadoras y educadores comparten guías metodológicas para sus colegas de
   todo el continente
