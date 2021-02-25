@@ -33,3 +33,10 @@ y Chile:
 
 Descarga a continuación las guías preparadas por educadoras y educadores de Estados Unidos:
 
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "6925431",
+	formId: "70968c4f-ffa3-4fdd-9887-f811038412f8"
+});
+</script>
