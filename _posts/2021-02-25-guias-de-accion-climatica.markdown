@@ -1,7 +1,7 @@
 ---
 title: Guías de Acción Climática
 date: 2021-02-25 20:07:00 Z
-nombre: Guías Acción Climática
+nombre: Guías Acción Climática / Climate Action Guides
 fecha: 2021-02-26 00:00:00 Z
 autor: Katie Cashman
 link-contacto: mailto:katie@2811.cl
