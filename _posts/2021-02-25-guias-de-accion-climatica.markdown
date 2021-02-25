@@ -15,6 +15,7 @@ excerpt_separator: "<!--mas-->"
 Febrero 2021 / Educadoras y educadores comparten guías metodológicas para sus colegas de todo el continente. 
 
 <!--mas-->
+**Scroll for English.**
 
 La Academia de Acción Climática es un programa de formación virtual, liderado por 2811 con apoyo de aliados técnicos, enfocado en cambio climático y acción climática, en el que los docentes adquieren herramientas y conocimientos para incluir estas temáticas en los currículos a nivel local y tienen una mejor preparación para enseñar sobre estas temáticas a través de una perspectiva interdisciplinaria.
 
@@ -32,7 +33,9 @@ El mundo necesita hoy más que nunca agentes de cambio social positivo, este es 
 });
 </script>
 
-**Descarga a continuación las guías preparadas por educadoras y educadores de Estados Unidos:**
+
+
+This book is a compilation of the didactic lesson plans that were designed by the teachers who participated in the first U.S. cohort of the Climate Action Academy. The book aims to provide the participants with ideas for engaging their classrooms in climate awareness and action and also serves to invite more teachers to participate in the next iteration of the program. This is the first edition of the lesson plan book, which we hope to grow and continue to keep as an open resource-sharing platform that includes future cohorts of the Climate Action Academy. **Download it here: **
 
 ![Captura de pantalla 2021-02-25 a las 21.59.49.png](/uploads/Captura%20de%20pantalla%202021-02-25%20a%20las%2021.59.49.png)
 
