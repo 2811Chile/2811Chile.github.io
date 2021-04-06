@@ -11,7 +11,7 @@ excerpt_separator: "<!--mas-->"
 ---
 
 
-Ogichidaakwe is the Ojibwe word for female warrior spirit.
+Ogichidaakwe is the Ojibwe word for female warrior spirit.(...)
 
 The day I visited, three activists had chained themselves to construction equipment and were subsequently arrested by the local police.
 
