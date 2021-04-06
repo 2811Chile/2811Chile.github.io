@@ -7,6 +7,7 @@ Bajada: 'I recently had the pleasure of visiting the newfound Migizi Camp on the
   Du Lac Reservation of northern Minnesota, where indigenous leader Taysha Martineau
   and dozens of volunteers from around the country are living and hosting daily actions
   in protest of the Enbridge Line 3 Pipeline. '
+excerpt_separator: "<!--mas-->"
 ---
 
 ## Migizi Camp vs. Line 3: The last battle for humanity
