@@ -15,8 +15,6 @@ Ogichidaakwe is the Ojibwe word for female warrior spirit.
 
 <!--mas-->
 
-
-
 I recently had the pleasure of visiting the newfound Migizi Camp on the Fond Du Lac Reservation of northern Minnesota, where indigenous leader Taysha Martineau and dozens of volunteers from around the country are living and hosting daily actions in protest of the Enbridge Line 3 Pipeline. 
 
 The day I visited, three activists had chained themselves to construction equipment and were subsequently arrested by the local police. As we sat around a campfire to stay warm in the chilling -10℉ weather, the group quickly organized bail to keep up morale.
