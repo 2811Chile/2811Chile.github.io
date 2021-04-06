@@ -17,6 +17,8 @@ The day I visited, three activists had chained themselves to construction equipm
 
 <!--mas-->
 
+## Migizi Camp vs. Line 3: The last battle for humanity
+
 Ogichidaakwe is the Ojibwe word for female warrior spirit.
 
 I recently had the pleasure of visiting the newfound Migizi Camp on the Fond Du Lac Reservation of northern Minnesota, where indigenous leader Taysha Martineau and dozens of volunteers from around the country are living and hosting daily actions in protest of the Enbridge Line 3 Pipeline. 
