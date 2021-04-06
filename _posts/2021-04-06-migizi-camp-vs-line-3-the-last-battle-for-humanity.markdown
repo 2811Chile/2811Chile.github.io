@@ -3,10 +3,6 @@ title: 'Migizi Camp vs. Line 3: The last battle for humanity'
 date: 2021-04-06 16:17:00 Z
 nombre: 'Migizi Camp vs. Line 3: The last battle for humanity'
 autor: 'Katie Cashman '
-bajada: 'I recently had the pleasure of visiting the newfound Migizi Camp on the Fond
-  Du Lac Reservation of northern Minnesota, where indigenous leader Taysha Martineau
-  and dozens of volunteers from around the country are living and hosting daily actions
-  in protest of the Enbridge Line 3 Pipeline. '
 excerpt_separator: "<!--mas-->"
 ---
 
