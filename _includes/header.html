@@ -1,4 +1,9 @@
 <header class="container">
+  <?php
+  header("Status: 301 Moved Permanently");
+  header("Location: http://www.ejemplo.es");
+  exit;
+  ?>
   <div class="row">
     <div class="col-xs-4 col-xs-offset-1">
       <a href="/"><img src="{{ "assets/images/logos/2811.png" | relative_url }}" class="branding" alt="{{ site.title }}" /></a>
@@ -8,7 +13,7 @@
         <input class="trigger" type="checkbox" id="mainNavButton">
         <label for="mainNavButton" onclick></label>
         <ul>
-          <li><a href="/somos">Somoss</a></li>
+          <li><a href="/somos">Somos</a></li>
           <li><a href="/proyectos">Proyectos</a></li>
           <li><a href="/commons-latam">Commons Latam</a></li>
           <li><a href="/blog">Blog</a></li>
